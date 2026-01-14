@@ -2,12 +2,6 @@
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Bookmarks</TITLE><!--- highestId :508: for Floccus bookmark sync browser extension -->
 <DL><p>
-<DT><H3 ID="19">我的服务器</H3>
-<DL><p>
-  <DT><A HREF="https://console.cloud.tencent.com/lighthouse/instance/index?rid=1" TAGS="" ID="31">服务器 - 轻量云 - 控制台</A>
-  <DT><A HREF="https://1.15.244.131:8888/home" TAGS="" ID="32">宝塔面板·腾讯云专享版</A>
-  <DT><A HREF="http://astr.amechan.cloud/#/dashboard/default" TAGS="" ID="33">AstrBot - 仪表盘</A>
-</DL><p>
 <DT><H3 ID="27">小米平台</H3>
 <DL><p>
   <DT><H3 ID="83">GitLab</H3>
@@ -696,6 +690,12 @@
   <DL><p>
     <DT><A HREF="https://bigmodel.cn/glm-coding?utm_source=google&#38;utm_campaign=%E8%B0%B7%E6%AD%8C&#38;_channel_track_key=uaT8G33P&#38;gad_source=1&#38;gad_campaignid=23407387808&#38;gbraid=0AAAABBUMtgRYxkYHTIeQYKwL1cd7cufnf&#38;gclid=EAIaIQobChMI_5bQ7bjzkQMVUtlMAh2muToVEAAYASAAEgKpTvD_BwE" TAGS="" ID="116">智谱AI开放平台</A>
   </DL><p>
+</DL><p>
+<DT><H3 ID="19">我的服务器</H3>
+<DL><p>
+  <DT><A HREF="https://console.cloud.tencent.com/lighthouse/instance/index?rid=1" TAGS="" ID="31">服务器 - 轻量云 - 控制台</A>
+  <DT><A HREF="https://1.15.244.131:8888/home" TAGS="" ID="32">宝塔面板·腾讯云专享版</A>
+  <DT><A HREF="http://astr.amechan.cloud/#/dashboard/default" TAGS="" ID="33">AstrBot - 仪表盘</A>
 </DL><p>
 <DT><H3 ID="263">Other Bookmarks</H3>
 <DL><p>
