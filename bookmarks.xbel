@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :248: for Floccus bookmark sync browser extension -->
+
+<folder id="2">
+  <title>Bookmarks Bar</title>
+  <folder id="3">
+    <title>大模型平台</title>
+    <folder id="13">
+      <title>DeepSeek</title>
+      <bookmark href="https://chat.deepseek.com/" id="82">
+        <title>DeepSeek - 探索未至之境</title>
+      </bookmark>
+      <bookmark href="https://platform.deepseek.com/transactions" id="83">
+        <title>DeepSeek 开放平台</title>
+      </bookmark>
+    </folder>
+    <folder id="14">
+      <title>ChatGpt</title>
+      <bookmark href="https://chatgpt.com/" id="84">
+        <title>chatgpt</title>
+      </bookmark>
+      <bookmark href="https://openai.com/zh-Hans-CN/index/openai-api/" id="85">
+        <title>OpenAI API | OpenAI</title>
+      </bookmark>
+    </folder>
+    <folder id="15">
+      <title>Kimi</title>
+      <bookmark href="https://platform.moonshot.cn/docs/overview" id="86">
+        <title>Moonshot AI 开放平台 - Kimi 大模型 API 服务</title>
+      </bookmark>
+      <bookmark href="https://www.kimi.com/" id="87">
+        <title>Kimi - 会推理解析，能深度思考的AI助手</title>
+      </bookmark>
+    </folder>
+    <folder id="16">
+      <title>Xiaomi</title>
+    </folder>
+    <folder id="17">
+      <title>智谱</title>
+      <bookmark href="https://bigmodel.cn/glm-coding?utm_source=google&amp;utm_campaign=%E8%B0%B7%E6%AD%8C&amp;_channel_track_key=uaT8G33P&amp;gad_source=1&amp;gad_campaignid=23407387808&amp;gbraid=0AAAABBUMtgRYxkYHTIeQYKwL1cd7cufnf&amp;gclid=EAIaIQobChMI_5bQ7bjzkQMVUtlMAh2muToVEAAYASAAEgKpTvD_BwE" id="88">
+        <title>智谱AI开放平台</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="4">
+    <title>我的服务器</title>
+    <bookmark href="https://console.cloud.tencent.com/lighthouse/instance/index?rid=1" id="18">
+      <title>服务器 - 轻量云 - 控制台</title>
+    </bookmark>
+    <bookmark href="https://1.15.244.131:8888/home" id="19">
+      <title>宝塔面板·腾讯云专享版</title>
+    </bookmark>
+    <bookmark href="http://astr.amechan.cloud/#/dashboard/default" id="20">
+      <title>AstrBot - 仪表盘</title>
+    </bookmark>
+  </folder>
+  <folder id="5">
+    <title>小米平台</title>
+    <folder id="22">
+      <title>GitLab</title>
+      <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-data" id="95">
+        <title>ai-search / ai-search-data · GitLab</title>
+      </bookmark>
+      <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-llm-api" id="96">
+        <title>ai-search / ai-search-llm-api · GitLab</title>
+      </bookmark>
+      <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-cms-api" id="97">
+        <title>ai-search / ai-search-cms-api · GitLab</title>
+      </bookmark>
+      <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-agent-api" id="98">
+        <title>ai-search / ai-search-agent-api · GitLab</title>
+      </bookmark>
+      <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-data-api" id="99">
+        <title>ai-search / ai-search-data-api · GitLab</title>
+      </bookmark>
+      <bookmark href="https://git.n.xiaomi.com/global-search/ai-search" id="100">
+        <title>GLOBAL_SEARCH / ai-search · 极狐GitLab</title>
+      </bookmark>
+    </folder>
+    <folder id="23">
+      <title>Matrix</title>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79897?projectId=471181" id="101">
+        <title>MATRIX-小米融合云</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/78790?projectId=471181" id="102">
+        <title>MATRIX-agent-staging</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70582?projectId=481187&amp;tab=instance" id="103">
+        <title>MATRIX-data-staging</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63869?projectId=471181" id="104">
+        <title>MATRIX-llm-api-staging</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/75678?projectId=471181" id="105">
+        <title>MATRIX-cms-staging</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70859?projectId=481187" id="106">
+        <title>MATRIX-data-preview</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/76559?projectId=471181" id="107">
+        <title>MATRIX-cms-preview</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79054?projectId=471181&amp;tab=instance" id="108">
+        <title>MATRIX-agent-preview</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63870?projectId=471181" id="109">
+        <title>MATRIX-llm-preview</title>
+      </bookmark>
+    </folder>
+    <folder id="24">
+      <title>中间件</title>
+      <bookmark href="https://cloud.d.xiaomi.net/redis/cache/resource?projectId=482877" id="110">
+        <title>REDIS-小米融合云</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/keycenter/sid/encry?sid=miui-search&amp;projectId=22856&amp;env=cn" id="111">
+        <title>KEYCENTER-小米融合云</title>
+      </bookmark>
+      <bookmark href="https://cloud.mioffice.cn/fusion-ui/#/product/file-store/buckets" id="112">
+        <title>FDS - ai-search-bucket</title>
+      </bookmark>
+    </folder>
+    <folder id="25">
+      <title>平台服务</title>
+      <bookmark href="http://cloudml.ai.srv/#/overview?cluster=c5&amp;type=cloudml" id="113">
+        <title>CloudML</title>
+      </bookmark>
+      <bookmark href="https://manage.migc.xiaomi.com/#/" id="114">
+        <title>小米游戏乐高平台-正式环境</title>
+      </bookmark>
+      <bookmark href="http://dev.hyfe.game.node.g.mi.com/migc2-lego-system/#/" id="115">
+        <title>小米游戏乐高平台-测试环境</title>
+      </bookmark>
+      <bookmark href="https://content-review.crcp.xiaomi.com/#/401" id="116">
+        <title>内容审核平台-正式环境</title>
+      </bookmark>
+      <bookmark href="http://staging.review.inf.miui.com/audit/#/audit/auditFirst?page=1&amp;limit=20&amp;queueType=0" id="117">
+        <title>内容审核平台-测试环境</title>
+      </bookmark>
+      <bookmark href="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&amp;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="118">
+        <title> Elastic-测试环境</title>
+      </bookmark>
+      <bookmark href="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&amp;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="119">
+        <title>Elastic-正式环境</title>
+      </bookmark>
+      <bookmark href="https://falcon.mioffice.cn/grafana/d/H20vV6XNk/zhu-gan-he-xin-zhi-biao?orgId=1&amp;teamId=31754&amp;treeId=2&amp;from=now-6h&amp;to=now&amp;refresh=5s" id="120">
+        <title>主干核心指标 - Grafana</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://pkgs.d.xiaomi.net/ui/packages#/home" id="26">
+      <title>Packages - artifactory</title>
+    </bookmark>
+    <bookmark href="https://edu.mioffice.cn/clientcn/exam/18077/questions?title=2025%E4%BA%92%E9%83%A8%E8%B4%A8%E9%87%8F%E8%80%83%E8%AF%95-%E5%86%85%E5%AE%B9%E7%94%9F%E6%80%81%E9%83%A8&amp;flag=test&amp;totaltime=20" id="27">
+      <title>清河大学</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/micr/iam/project/agent-495172/detail?projectId=495172" id="28">
+      <title>MICR-小米融合云</title>
+    </bookmark>
+    <bookmark href="https://michat.ai.xiaomi.com/wk" id="29">
+      <title>Mi Chat</title>
+    </bookmark>
+    <bookmark href="https://falcon.mioffice.cn/#/falcon-new/prometheus-overview" id="30">
+      <title>falcon</title>
+    </bookmark>
+    <bookmark href="https://offer.hr.mioffice.cn/express" id="31">
+      <title>小米入职系统</title>
+    </bookmark>
+    <bookmark href="https://zkview.d.xiaomi.net/clusters/staging/nodes" id="32">
+      <title>Shepher</title>
+    </bookmark>
+  </folder>
+  <folder id="6">
+    <title>官方文档</title>
+    <folder id="33">
+      <title>前端</title>
+      <bookmark href="https://element-plus.org/zh-CN/guide/design.html" id="121">
+        <title>设计 | Element Plus</title>
+      </bookmark>
+      <bookmark href="https://pinia.vuejs.org/zh/introduction.html" id="122">
+        <title>Pinia</title>
+      </bookmark>
+      <bookmark href="https://www.iconfont.cn/" id="123">
+        <title>iconfont-阿里巴巴矢量图标库</title>
+      </bookmark>
+      <bookmark href="https://cn.vuejs.org/" id="124">
+        <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
+      </bookmark>
+    </folder>
+    <folder id="34">
+      <title>后端</title>
+      <bookmark href="https://spring.io/projects/spring-ai" id="125">
+        <title>Spring AI</title>
+      </bookmark>
+      <bookmark href="https://baomidou.com/" id="126">
+        <title>MyBatis-Plus 🚀 为简化开发而生</title>
+      </bookmark>
+      <bookmark href="https://mybatis.org/mybatis-3/zh_CN/getting-started.html" id="127">
+        <title>MyBatis 3 | 入门 – mybatis</title>
+      </bookmark>
+      <bookmark href="https://java2ai.com/docs/dev/get-started/" id="128">
+        <title>快速开始-阿里云Spring AI Alibaba官网官网</title>
+      </bookmark>
+      <bookmark href="https://docs.langchain4j.dev/intro" id="129">
+        <title>Introduction | LangChain4j</title>
+      </bookmark>
+      <bookmark href="https://www.hutool.cn/docs/#/" id="130">
+        <title>Hutool</title>
+      </bookmark>
+      <bookmark href="https://www.rabbitmq.com/docs" id="131">
+        <title>RabbitMQ</title>
+      </bookmark>
+      <bookmark href="https://www.thymeleaf.org/doc/tutorials/3.1/thymeleafspring.html" id="132">
+        <title>教程：Thymeleaf + Spring</title>
+      </bookmark>
+    </folder>
+    <folder id="35">
+      <title>小米平台接口</title>
+      <bookmark href="http://doc.t.pt.miui.com/middle_doc/audit/%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B.html" id="133">
+        <title>审核平台接入接口</title>
+      </bookmark>
+      <bookmark href="https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1559" id="134">
+        <title>服务器API地址以及参数 | 小米澎湃OS开发者平台</title>
+      </bookmark>
+    </folder>
+    <folder id="36">
+      <title>Agent</title>
+      <bookmark href="https://docs.n8n.io/" id="135">
+        <title>Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs</title>
+      </bookmark>
+      <bookmark href="https://docs.dify.ai/zh-hans/introduction" id="136">
+        <title>产品简介 - Dify Docs</title>
+      </bookmark>
+      <bookmark href="https://opencode.ai/docs" id="137">
+        <title>Intro | OpenCode</title>
+      </bookmark>
+      <bookmark href="https://a2ui.org/" id="138">
+        <title>A2UI</title>
+      </bookmark>
+    </folder>
+    <folder id="37">
+      <title>工具</title>
+      <bookmark href="https://www.runoob.com/linux/linux-tutorial.html" id="139">
+        <title>Linux 教程 | 菜鸟教程</title>
+      </bookmark>
+      <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="140">
+        <title>Xshell | NetSarang Website</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="7">
+    <title>GitHub</title>
+    <bookmark href="https://github.com/" id="38">
+      <title>GitHub</title>
+    </bookmark>
+    <folder id="39">
+      <title>AI</title>
+      <bookmark href="https://github.com/langchain4j/langchain4j/" id="141">
+        <title>langchain4j/langchain4j: Java version of LangChain</title>
+      </bookmark>
+      <bookmark href="https://github.com/zai-org/Open-AutoGLM/tree/main" id="142">
+        <title>zai-org/Open-AutoGLM: An Open Phone Agent Model &amp; Framework. Unlocking the AI Phone for Everyone</title>
+      </bookmark>
+      <bookmark href="https://github.com/langgenius/dify/blob/main/README_CN.md" id="143">
+        <title>dify/README_CN.md at main · langgenius/dify</title>
+      </bookmark>
+    </folder>
+    <bookmark href="https://github.com/linshenkx/prompt-optimizer" id="40">
+      <title>linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</title>
+    </bookmark>
+    <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/blob/main/docker-compose/zipkin/docker-compose.yml?spm=4347728f.53938564.0.0.13232b0e4QAuNQ&amp;file=docker-compose.yml" id="41">
+      <title>zipkin</title>
+    </bookmark>
+    <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" id="42">
+      <title>spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</title>
+    </bookmark>
+  </folder>
+  <folder id="8">
+    <title>平台</title>
+    <folder id="43">
+      <title>云服务厂商</title>
+      <folder id="144">
+        <title>腾讯云</title>
+        <bookmark href="https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&amp;rid=4&amp;id=lhins-flrmhtl4&amp;tab=domain&amp;action=registerNewDomain" id="181">
+          <title>服务器 - 轻量云 - 控制台</title>
+        </bookmark>
+      </folder>
+      <folder id="145">
+        <title>火山</title>
+        <bookmark href="https://open.f.mioffice.cn/app/cli_a81ebda832385062/baseinfo" id="182">
+          <title>飞书开放平台</title>
+        </bookmark>
+        <bookmark href="https://console.volcengine.com/ark/region:ark+cn-beijing/overview?briefPage=0&amp;briefType=introduce&amp;type=new" id="183">
+          <title>火山方舟管理控制台</title>
+        </bookmark>
+        <bookmark href="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" id="184">
+          <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
+        </bookmark>
+        <bookmark href="https://console.volcengine.com/speech/app?projectName=default" id="185">
+          <title>豆包语音</title>
+        </bookmark>
+      </folder>
+      <folder id="146">
+        <title>阿里云</title>
+        <bookmark href="https://bailian.console.aliyun.com/?utm_content=se_1021228191&amp;gclid=EAIaIQobChMI3YXe7rLAjgMVjxp7Bx0EvzOAEAAYASAAEgJqp_D_BwE#/home" id="186">
+          <title>大模型服务平台百炼控制台</title>
+        </bookmark>
+        <bookmark href="https://oss.console.aliyun.com/overview" id="187">
+          <title>OSS管理控制台</title>
+        </bookmark>
+        <bookmark href="https://common-buy.aliyun.com/?spm=a2c4g.11186623.0.0.237a2e0e2npJjG&amp;commodityCode=alibababcp_ecosearch_public_cn" id="188">
+          <title>开通通用搜索</title>
+        </bookmark>
+        <bookmark href="https://bailian.console.aliyun.com/#/home" id="189">
+          <title>阿里云百炼</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="44">
+      <title>影视</title>
+      <bookmark href="https://www.bilibili.com/" id="147">
+        <title>哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</title>
+      </bookmark>
+      <bookmark href="https://tv.yinghuadongman.info/play_2523-1-1.html" id="148">
+        <title>正在播放《我推的孩子》第01集_高清1080P在线观看平台_日本动漫_高清版完整视频免费在线播放_樱花动漫-专注动漫的门户网站-樱花动漫官网 - yinghuadongman.info</title>
+      </bookmark>
+      <bookmark href="https://www.4kvm.pro/seasons/aerbli" id="149">
+        <title>切尔诺贝利: 第1季 - 全集免费在线播放 - 4k影视</title>
+      </bookmark>
+    </folder>
+    <folder id="45">
+      <title>游戏</title>
+      <bookmark href="https://www.op.gg/champions" id="150">
+        <title>Champion Tier List for 上单, 华贵铂金 +, Patch 13.03 - League of Legends</title>
+      </bookmark>
+      <bookmark href="https://modrinth.com/" id="151">
+        <title>Modrinth</title>
+      </bookmark>
+      <bookmark href="https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5" id="152">
+        <title>GTNH中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司</title>
+      </bookmark>
+    </folder>
+    <folder id="46">
+      <title>河海</title>
+      <bookmark href="https://hhu.91job.org.cn/sub-station/recruitmentDetail?zphid=1000000000073768&amp;xxdm=10294" id="153">
+        <title>河海大学就业服务管理平台</title>
+      </bookmark>
+      <bookmark href="http://zhjs161.hhu.edu.cn/TeachingCenterStudentWeb/index.html#/home.htm" id="154">
+        <title>云课堂</title>
+      </bookmark>
+      <bookmark href="http://my.hhu.edu.cn/portal-web/html/index.html?t=1661415726249" id="155">
+        <title>河海大学校园信息门户</title>
+      </bookmark>
+      <bookmark href="https://smst.hhu.edu.cn/mobile/login.aspx" id="156">
+        <title>奥蓝学生管理信息系统(学生版)</title>
+      </bookmark>
+      <bookmark href="https://my.hhu.edu.cn/portal-web/html/index.html?t=1761556235494" id="157">
+        <title>my.hhu.edu.cn/portal-web/html/index.html?t=1761556235494</title>
+      </bookmark>
+      <folder id="158">
+        <title>论文</title>
+        <bookmark href="https://www.cnki.net/" id="190">
+          <title>中国知网</title>
+        </bookmark>
+        <bookmark href="https://ds.carsi.edu.cn/resource/resourceDetail.php?id=resource:41&amp;rt=purchased" id="191">
+          <title>教育网联邦认证与资源共享基础设施CARSI-资源详情</title>
+        </bookmark>
+        <bookmark href="https://bylw.hhu.edu.cn/Main/Menu.aspx?sid=1OXr+fRtdpilTd2KYN+NtQ....&amp;screen=HMnRbwIgTPQYrZJU72ZcCQ...." id="192">
+          <title>河海大学毕业设计（论文）智能管理系统</title>
+        </bookmark>
+        <bookmark href="https://topic.wanfangdata.com.cn/" id="193">
+          <title>万方数据-万方选题-更专业的选题助手</title>
+        </bookmark>
+      </folder>
+    </folder>
+    <folder id="47">
+      <title>AI创作</title>
+      <folder id="159">
+        <title>图片</title>
+        <bookmark href="https://spell.novelai.dev/" id="194">
+          <title>Stable Diffusion 法术解析</title>
+        </bookmark>
+        <bookmark href="https://tags.novelai.dev/" id="195">
+          <title>Danbooru 标签超市</title>
+        </bookmark>
+        <bookmark href="https://platform.stability.ai/account/credits" id="196">
+          <title>稳定性人工智能 - 开发者平台</title>
+        </bookmark>
+      </folder>
+      <folder id="160">
+        <title>音乐</title>
+        <bookmark href="https://suno.com/account" id="197">
+          <title>Suno</title>
+        </bookmark>
+        <bookmark href="https://github.com/jianchang512/ChatTTS-ui/releases" id="198">
+          <title>Releases · jianchang512/ChatTTS-ui</title>
+        </bookmark>
+        <bookmark href="https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e?" id="199">
+          <title>GPT-SoVITS指南</title>
+        </bookmark>
+        <bookmark href="https://vocalremover.org/zh/splitter-ai" id="200">
+          <title>乐器分离器</title>
+        </bookmark>
+      </folder>
+      <folder id="161">
+        <title>视频</title>
+      </folder>
+    </folder>
+    <folder id="48">
+      <title>通讯</title>
+      <bookmark href="https://mail.xiaomi.com/owa/#path=/mail/inbox" id="162">
+        <title>邮件 - mafuyu@xiaomi.com</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="9">
+    <title>OCR&amp;端侧</title>
+    <bookmark href="https://github.com/deepseek-ai/DeepSeek-OCR" id="49">
+      <title>deepseek-ai/DeepSeek-OCR: Contexts Optical Compression</title>
+    </bookmark>
+    <bookmark href="https://www.paddleocr.ai/latest/version3.x/pipeline_usage/PaddleOCR-VL.html" id="50">
+      <title>使用教程 - PaddleOCR 文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/TVdJwZLUfi0ZhbkuXFhclrklnVh" id="51">
+      <title>‌​⁢⁣⁣‬‌‬⁤⁢⁤‍​⁣​⁢‍​​‌⁤‬​​‍​⁣‍⁤⁤⁤﻿﻿‌⁡﻿⁢⁤​⁤⁡﻿⁣​⁣⁤‍﻿​‬端侧图片识别能力调研 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/S6muwNXiKiI5EakWUPBcBcLYnhd" id="52">
+      <title>‌⁡⁢⁢‍​​⁡⁣⁤​‍‬﻿‬​⁣‬⁣‍⁢﻿‍⁤⁢⁢​⁤‍​﻿⁤‬⁡⁡⁣⁢⁣​﻿‬‬‌​​‬⁡​PaddleOCR &amp; DeepSeek-OCR 调研 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://www.paddlepaddle.org.cn/tutorials/projectdetail/5604804" id="53">
+      <title>飞桨PaddlePaddle-源于产业实践的开源深度学习平台</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/LoBOw9SpAiDiOjkbRGacEmu9nlh" id="54">
+      <title>‍​⁣‬﻿⁢⁢⁤‌‌​‌‍‍⁤﻿⁤‌​⁣‍⁣⁤‬‍⁢‍​‬⁡﻿​﻿﻿​⁣​⁤‌‍‬​​⁣​​⁣﻿⁡‍CloudML部署Paddle-OCR - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://www.paddleocr.ai/latest/version3.x/algorithm/PaddleOCR-VL/PaddleOCR-VL.html#_17" id="55">
+      <title>PaddleOCR-VL简介 - PaddleOCR 文档</title>
+    </bookmark>
+    <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="56">
+      <title>CloudML</title>
+    </bookmark>
+  </folder>
+  <folder id="10">
+    <title>mify</title>
+    <bookmark href="https://mify.mioffice.cn/app/afb6d133-3beb-4eee-afe8-37bd64ca59a4/workflow" id="58">
+      <title>AI视频生成——提示词扩写 - Mify</title>
+    </bookmark>
+    <bookmark href="https://mify.mioffice.cn/app/5ff750e7-9965-44bb-9e27-30261b02ede5/workflow" id="59">
+      <title>拍搜-整合 - Mify</title>
+    </bookmark>
+    <bookmark href="https://mify.mioffice.cn/app/7600ae69-812a-4c87-8552-6b10ca4e969a/workflow" id="60">
+      <title>AI短剧聊天机器人 - Mify</title>
+    </bookmark>
+  </folder>
+  <folder id="11">
+    <title>排题预推</title>
+    <bookmark href="https://mi.feishu.cn/wiki/Kv16w7ndniNuFpksqvXc76mnnGf" id="62">
+      <title>⁣‍​⁣​⁡‬⁣⁤​‍⁤⁡⁤​​‍‌⁣‍‬​⁢​‬⁢⁢‍‍⁢⁡‍​​​⁢﻿⁡​‍﻿⁢⁢​​‍⁤﻿⁢【AI搜索】【首包耗时优化】方案调研 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/OhVpw41pbiAXKMk7Vwrcqkuznob" id="63">
+      <title>Docs</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/Vx2Uwlzj6iq5WGkK43qcyLi6nfg" id="64">
+      <title>‍⁢﻿‍﻿⁤‍⁢‍⁢⁡﻿​‍​‬⁣​﻿​‬﻿﻿﻿‬​⁣⁤⁢⁣‌⁡⁤‌﻿‌‌‌⁡⁣​⁤⁣‌⁢⁢⁢⁢⁡‌AI搜索专项 | 首包优化专项 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/SjZtw8O5oioUbqkccmLck6CSnFh" id="65">
+      <title>‍‌‌⁣⁡‌​‌⁡⁡‬⁣​⁢​‬‍​‍⁣‍​⁡⁣‍‍⁡⁣​‍⁢⁤‬‌​⁤⁣‍⁡⁡​‬⁣​‬⁣﻿⁤⁣⁡AI搜端到端拍搜链路梳理 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/R4xQw3zG2iNdQckT3vOcO5PNnVT" id="66">
+      <title>‍‬‌⁣‍​﻿⁣⁤⁡‌⁣‌​​⁢​‬‍​​⁡​​﻿​‬‍​﻿‌⁢⁡​⁡‌⁢​⁣​​​​​﻿‬⁢‌⁡‌【AI搜索】拍单题预推技术方案 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/Gjt3w8XSei3ssxkuDHKcRgo6nOc" id="67">
+      <title>⁣⁣⁣⁢​﻿﻿‍‍⁤‍⁣‍﻿⁣‍​⁢⁢​​‬⁡​⁣​⁣​⁢‌​​﻿​‌‬‬﻿​⁤⁡‌﻿‬​​‌​﻿专项规划 | 端到端首包耗时优化专项 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/O7ZJwpAVSiJe9jkKuemcY5MLnTD" id="68">
+      <title>‌﻿⁡⁡⁡‍​⁣⁢⁡﻿​⁣⁡‬‬⁢⁣⁣⁢⁡⁤‌⁡‌⁤​⁤​⁤⁣​⁤​‍⁤⁣‍‌⁢‬‬⁤⁤⁣﻿⁡⁤​​【AI搜索】【拍搜链路首包耗时优化】方案设计 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/KwNZwbcmhionadkQOcXcx2uKnvd" id="69">
+      <title>‌‍‍‍‌‍​​﻿​⁤﻿​​﻿​⁢⁢⁡‌‬‌⁡⁣​‬‬﻿⁢⁢‍‌‬‌‍‌‌⁢⁣﻿‍⁡‌​​‬⁣​AI搜索 | 拍题图片上传接口 /api/data/upload/image/v2 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://project.f.mioffice.cn/aisearch_ice/requirement/detail/3543486" id="70">
+      <title>【不跟版】拍单题答案预推 - 飞书项目</title>
+    </bookmark>
+    <bookmark href="https://console.volcengine.com/ark/region:ark+cn-beijing/experience/voice?modelId=ve-voiceclone&amp;tab=VoiceClone" id="71">
+      <title>火山方舟管理控制台</title>
+    </bookmark>
+    <bookmark href="https://console.volcengine.com/ark/region:ark+cn-beijing/tts/realTimeRecognition" id="72">
+      <title>火山方舟管理控制台</title>
+    </bookmark>
+    <bookmark href="https://www.volcengine.com/docs/6561/1597643" id="73">
+      <title>端到端Android SDK 接口文档--豆包语音-火山引擎</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/NrWVwOy9iiYYxJkNXRhcaJIWneb" id="74">
+      <title>Docs</title>
+    </bookmark>
+  </folder>
+  <folder id="12">
+    <title>AI生图</title>
+    <bookmark href="https://imini.com/tools/ai-image/text-to-image" id="76">
+      <title>AI Image Generator | Best Online AI Image Creator | iMini AI</title>
+    </bookmark>
+    <bookmark href="https://xingjiabiapi.com/console/token" id="77">
+      <title>令牌管理 - 性价比API</title>
+    </bookmark>
+    <bookmark href="https://www.easemate.ai/nano-banana-ai-image-generator" id="78">
+      <title>Nano Banana - EaseMate AI 中的免费 G​​emini AI 图像生成器和照片编辑器</title>
+    </bookmark>
+    <bookmark href="https://flowith.io/blank" id="79">
+      <title>Flowith AI - Your Agentic Workspace</title>
+    </bookmark>
+    <bookmark href="https://gemini.google.com/share/f4b3be548228" id="80">
+      <title>‎Gemini - 直接体验 Google AI 黑科技</title>
+    </bookmark>
+  </folder>
+  <folder id="21">
+    <title>AI教育</title>
+    <bookmark href="https://mi.feishu.cn/wiki/N6WTwkz6iiqneokraQvcUEiXnjd" id="89">
+      <title>Docs</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/OcrgwVWH1iaYLxkFzVDcjRjXnMe" id="90">
+      <title>‍⁡‌‍‌‌⁡⁣⁢﻿​﻿⁡⁤‌‍‬‬‬​⁤⁤​⁢⁣﻿⁡‬‍⁤‌‌​‌⁣​‍⁡‌⁤⁡⁣​﻿⁤﻿​⁢‍​豆包爱学板书指令调研 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://console.volcengine.com/speech/new/overview?projectName=default" id="91">
+      <title>豆包语音</title>
+    </bookmark>
+    <bookmark href="https://mify.mioffice.cn/app/bff00f2a-98f7-48b9-bb30-2ccc45f3f84b/workflow" id="92">
+      <title>AI教育板书指令工作流 - Mify</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/CX3JwUSfSi8Y2hke9dnccbYKnnf" id="93">
+      <title>‌‍⁢⁣​﻿⁡‬‌⁣⁣⁤​⁢﻿⁣⁤​​​‬‍⁢​‌⁡⁡​⁣​​‍‬⁢﻿⁣‬​﻿​⁡⁡﻿‬⁢‬‬​‌⁡未命名文档 - 小米办公Pro云文档</title>
+    </bookmark>
+    <bookmark href="https://mi.feishu.cn/wiki/LYmfw6SrAiSOjfkVFqbcfsAKnkB" id="94">
+      <title>Docs</title>
+    </bookmark>
+  </folder>
+  <folder id="57">
+    <title>工具</title>
+    <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="163">
+      <title>转换 人民币 为 俄罗斯卢布 | CNY 为 RUB 汇率转换工具</title>
+    </bookmark>
+    <folder id="164">
+      <title>格式转换</title>
+      <bookmark href="https://www.ncm2mp3.com/" id="201">
+        <title>网易云NCM转MP3 - NCM to MP3 - NCM文件批量转换为MP3格式</title>
+      </bookmark>
+      <bookmark href="https://cdkm.com/cn/mp3-to-ogg" id="202">
+        <title>MP3转OGG - 免费在线将MP3文件转换成OGG</title>
+      </bookmark>
+      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E5%8C%85?variant=zh-cn" id="203">
+        <title>教程:制作资源包 - 中文 Minecraft Wiki</title>
+      </bookmark>
+      <bookmark href="https://convertfree.com/cn/converter/audio/ogg" id="204">
+        <title>OGG 转换工具。 - ConvertFree</title>
+      </bookmark>
+      <bookmark href="https://smallpdf.com/cn/edit-pdf#r=result&amp;t=5ffb0acd4fd8ae4d46e43d69a33104a7&amp;i=annotate" id="205">
+        <title>编辑PDF —— 可在你的浏览器直接使用的免费PDF编辑器</title>
+      </bookmark>
+    </folder>
+    <folder id="165">
+      <title>站长工具</title>
+      <folder id="206">
+        <title>素材</title>
+      </folder>
+    </folder>
+    <folder id="166">
+      <title>游戏</title>
+      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="207">
+        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
+      </bookmark>
+      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="208">
+        <title>交易 - 中文 Minecraft Wiki</title>
+      </bookmark>
+      <bookmark href="https://mc.appfeng.com/" id="209">
+        <title>鸣潮助手</title>
+      </bookmark>
+      <bookmark href="https://wuwatracker.com/zh-CN" id="210">
+        <title>WuWa Tracker</title>
+      </bookmark>
+      <bookmark href="https://www.limestart.cn/" id="211">
+        <title>青柠起始页</title>
+      </bookmark>
+      <bookmark href="https://gamebanana.com/mods/537551" id="212">
+        <title>[SENSITIVE CONTENT] zhezhi Poseidon swimwear 1.0 fix折枝波塞冬泳装 1.0修复 [Wuthering Waves] [Mods]</title>
+      </bookmark>
+      <bookmark href="https://www.huihui.top/" id="213">
+        <title>Hui站（点击左侧切换游戏）</title>
+      </bookmark>
+      <bookmark href="https://dsp-calc.pro/" id="214">
+        <title>戴森球计划量化计算器</title>
+      </bookmark>
+    </folder>
+    <folder id="167">
+      <title>素材</title>
+      <bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="215">
+        <title>免费素材图片</title>
+      </bookmark>
+      <bookmark href="https://unsplash.com/" id="216">
+        <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="61">
+    <title>bac</title>
+    <folder id="168">
+      <title>AI技术</title>
+      <bookmark href="https://tongyi.aliyun.com/" id="217">
+        <title>通义tongyi.ai_你的全能AI助手-通义千问</title>
+      </bookmark>
+      <bookmark href="https://llamafactory.readthedocs.io/zh-cn/latest/index.html" id="218">
+        <title>LLaMA Factory</title>
+      </bookmark>
+      <bookmark href="https://javaai.pig4cloud.com/docs/05Chat%20Stream" id="219">
+        <title>Chat 流式输出 - 零基础入门Java AI</title>
+      </bookmark>
+      <bookmark href="https://docs.langchain4j.dev/get-started" id="220">
+        <title>Get Started | LangChain4j</title>
+      </bookmark>
+      <bookmark href="https://chat.langchain4j.dev/" id="221">
+        <title>LangChain4j Documentation ChatBot (Experimental)</title>
+      </bookmark>
+      <bookmark href="https://dashscope.aliyun.com/" id="222">
+        <title>模型服务灵积 DashScope - 阿里云</title>
+      </bookmark>
+      <bookmark href="https://mcp-docs.cn/introduction" id="223">
+        <title>MCP 简介 - MCP 中文文档</title>
+      </bookmark>
+      <bookmark href="https://baoyueai.com/read/367164" id="224">
+        <title>包阅AI-你的智能AI阅读助手</title>
+      </bookmark>
+      <bookmark href="https://github.com/iwyxdxl/WeChatBot_WXAUTO_SE/releases/tag/3.16" id="225">
+        <title>Release WeChatBot_WXAUTO_SE_v3.16 · iwyxdxl/WeChatBot_WXAUTO_SE</title>
+      </bookmark>
+    </folder>
+    <folder id="169">
+      <title>其他</title>
+      <bookmark href="https://rutracker.net/forum/index.php?c=8" id="226">
+        <title>RuTracker.org</title>
+      </bookmark>
+      <folder id="227">
+        <title>else</title>
+        <bookmark href="https://cn.pornhub.com/video" id="235">
+          <title>免费色情视频：硬核成人色情电影</title>
+        </bookmark>
+        <bookmark href="https://bestgore.fun/videos/browse?s=1" id="236">
+          <title>近期新增 - BestGore.Fun - Because nothing says &apos;fun&apos; like bestgore!</title>
+        </bookmark>
+        <bookmark href="https://crazyshit.com/categories/" id="237">
+          <title> Crazy Shit</title>
+        </bookmark>
+        <bookmark href="https://46glsxxh63.gls2026.com/page/2" id="238">
+          <title>瓜老师の笔记 - @吃瓜网、看大瓜排行、黑料网！</title>
+        </bookmark>
+        <bookmark href="https://cn.pornhub.com/view_video.php?viewkey=64a7a65f4b2f1" id="239">
+          <title>可爱的学妹为我穿上透视满足我的欲望 - Pornhub.com</title>
+        </bookmark>
+        <bookmark href="https://www.pixiv.net/ranking.php?mode=male_r18" id="240">
+          <title>[pixiv] 受男性欢迎 (R-18)排行榜 2024年12月30日</title>
+        </bookmark>
+        <bookmark href="https://cn.pornhub.com/view_video.php?viewkey=64bf90ebcc15c" id="241">
+          <title>【GINGERTHEDOLL姜姜】自慰潮吹喷水尿尿玩具振动棒36min超长合集合辑 清凉福利 一次看爽 - Pornhub.com</title>
+        </bookmark>
+        <bookmark href="https://cn.pornhub.com/view_video.php?viewkey=ph5e91da38703b6" id="242">
+          <title>禁欲五天的淫穴封印解除 ｜阴蒂玩弄｜浪叫出声｜连续高潮 ｜纯情白丝｜黑化值10% - Pornhub.com</title>
+        </bookmark>
+        <bookmark href="https://cn.pornhub.com/view_video.php?viewkey=64df5e09af975" id="243">
+          <title>呜~我太喜欢这个幻龙了，属实是把我插出白浆了，感觉里面已经是龙龙的形状了！！ - Pornhub.com</title>
+        </bookmark>
+        <bookmark href="https://cn.pornhub.com/view_video.php?viewkey=6512546ccfa2d" id="244">
+          <title>JK 制服女孩自慰无法抑制并喷尿和撒尿很多日本未经审查 - Pornhub.com</title>
+        </bookmark>
+        <bookmark href="https://spankbang.com/9ojvg/video/sexy+chinese+amateur+big+butt+perfect+body+masturbate+in+shower+i+found+her+at+porndemon+net" id="245">
+          <title>Watch Sexy Chinese Amateur Big Butt Perfect Body Masturbate in Shower I found her at porndemon.net - Asian, Doggy, Amateur Porn - SpankBang</title>
+        </bookmark>
+        <bookmark href="https://spankbang.com/8lc41/video/porn" id="246">
+          <title>Watch 寸止挑战第十一期 - Doggy, Blowjob, Handjob Porn - SpankBang</title>
+        </bookmark>
+        <bookmark href="https://spankbang.com/9qig3/video/hunk+ch+com+gn058" id="247">
+          <title>Watch [hunk-ch.com] GN058 - Fuck, Asian, Hardcore Porn - SpankBang</title>
+        </bookmark>
+        <bookmark href="https://www.rainlain.com/index.php/2024/09/09/2435/" id="248">
+          <title>私人推荐：亲吻花瓣（23部汉化合集） – 梦雨玲音</title>
+        </bookmark>
+      </folder>
+      <bookmark href="https://twitter.com/" id="228">
+        <title></title>
+      </bookmark>
+      <bookmark href="https://www.eyezmaze.com/game/grow_Island.html" id="229">
+        <title>GROW Island（游戏） --EYEZMAZE--</title>
+      </bookmark>
+      <bookmark href="https://www.douyu.com/7180846?dyshid=12fbc8ca-5a6b62fc393f31ed83a52bb400011601&amp;dyshci=1" id="230">
+        <title>jjking剑姬直播_英雄联盟直播_斗鱼直播</title>
+      </bookmark>
+      <bookmark href="https://www.yinghuadongman.info/" id="231">
+        <title>樱花动漫-专注动漫的门户网站-樱花动漫官网</title>
+      </bookmark>
+      <bookmark href="https://orteil.dashnet.org/cookieclicker/" id="232">
+        <title>1,268 块饼干 - Cookie Clicker</title>
+      </bookmark>
+      <bookmark href="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" id="233">
+        <title>AIppt制作</title>
+      </bookmark>
+    </folder>
+    <folder id="170">
+      <title>AI绘画</title>
+      <bookmark href="https://www.liblib.art/?from=aigc.cn" id="234">
+        <title>LiblibAI-哩布哩布AI - 中国领先的AI创作平台</title>
+      </bookmark>
+    </folder>
+  </folder>
+  <folder id="75">
+    <title>平台bac</title>
+    <bookmark href="https://www.baidu.com/" id="171">
+      <title>百度一下，你就知道</title>
+    </bookmark>
+    <bookmark href="https://chartcube.alipay.com/upload" id="172">
+      <title>ChartCube - 在线图表制作工具</title>
+    </bookmark>
+    <bookmark href="https://bytesfly.github.io/json/" id="173">
+      <title>Json在线解析及格式化验证 - Json.cn</title>
+    </bookmark>
+    <bookmark href="https://sillytavern.wiki/usage/faq/" id="174">
+      <title>常见问题 | SillyTavern傻酒馆中文文档</title>
+    </bookmark>
+    <bookmark href="https://character-tavern.com/" id="175">
+      <title>Character Tavern | Create &amp; Chat with AI Characters</title>
+    </bookmark>
+    <bookmark href="https://www.characterhub.org/?search=&amp;first=50&amp;topics=&amp;excludetopics=&amp;page=1&amp;sort=default&amp;venus=false&amp;min_tokens=50" id="176">
+      <title>Chub</title>
+    </bookmark>
+    <bookmark href="https://api.317ak.cn/UserCenter/mykey?i=2" id="177">
+      <title>用户中心 - 倾梦API</title>
+    </bookmark>
+    <bookmark href="https://nemo2011.github.io/bilibili-api/#/get-credential" id="178">
+      <title>获取 Credential 类所需信息</title>
+    </bookmark>
+    <bookmark href="https://yescaptcha.com/documents.html" id="179">
+      <title>Yes, Captcha! - 使用统计</title>
+    </bookmark>
+  </folder>
+  <folder id="81">
+    <title>最近工作用</title>
+    <bookmark href="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" id="180">
+      <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
+    </bookmark>
+  </folder>
+</folder>
+<folder id="1">
+  <title>Other Bookmarks</title>
+</folder>
+</xbel>
