@@ -1,45 +1,7 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :509: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :510: for Floccus bookmark sync browser extension -->
 <DL><p>
-<DT><H3 ID="28">官方文档</H3>
-<DL><p>
-  <DT><H3 ID="94">前端</H3>
-  <DL><p>
-    <DT><A HREF="https://element-plus.org/zh-CN/guide/design.html" TAGS="" ID="143">设计 | Element Plus</A>
-    <DT><A HREF="https://pinia.vuejs.org/zh/introduction.html" TAGS="" ID="144">Pinia</A>
-    <DT><A HREF="https://www.iconfont.cn/" TAGS="" ID="145">iconfont-阿里巴巴矢量图标库</A>
-    <DT><A HREF="https://cn.vuejs.org/" TAGS="" ID="146">Vue.js - 渐进式 JavaScript 框架 | Vue.js</A>
-  </DL><p>
-  <DT><H3 ID="95">后端</H3>
-  <DL><p>
-    <DT><A HREF="https://spring.io/projects/spring-ai" TAGS="" ID="147">Spring AI</A>
-    <DT><A HREF="https://baomidou.com/" TAGS="" ID="148">MyBatis-Plus 🚀 为简化开发而生</A>
-    <DT><A HREF="https://mybatis.org/mybatis-3/zh_CN/getting-started.html" TAGS="" ID="149">MyBatis 3 | 入门 – mybatis</A>
-    <DT><A HREF="https://java2ai.com/docs/dev/get-started/" TAGS="" ID="150">快速开始-阿里云Spring AI Alibaba官网官网</A>
-    <DT><A HREF="https://docs.langchain4j.dev/intro" TAGS="" ID="151">Introduction | LangChain4j</A>
-    <DT><A HREF="https://www.hutool.cn/docs/#/" TAGS="" ID="152">Hutool</A>
-    <DT><A HREF="https://www.rabbitmq.com/docs" TAGS="" ID="153">RabbitMQ</A>
-    <DT><A HREF="https://www.thymeleaf.org/doc/tutorials/3.1/thymeleafspring.html" TAGS="" ID="154">教程：Thymeleaf + Spring</A>
-  </DL><p>
-  <DT><H3 ID="96">小米平台接口</H3>
-  <DL><p>
-    <DT><A HREF="http://doc.t.pt.miui.com/middle_doc/audit/%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B.html" TAGS="" ID="155">审核平台接入接口</A>
-    <DT><A HREF="https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1559" TAGS="" ID="156">服务器API地址以及参数 | 小米澎湃OS开发者平台</A>
-  </DL><p>
-  <DT><H3 ID="97">Agent</H3>
-  <DL><p>
-    <DT><A HREF="https://docs.n8n.io/" TAGS="" ID="157">Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs</A>
-    <DT><A HREF="https://docs.dify.ai/zh-hans/introduction" TAGS="" ID="158">产品简介 - Dify Docs</A>
-    <DT><A HREF="https://opencode.ai/docs" TAGS="" ID="159">Intro | OpenCode</A>
-    <DT><A HREF="https://a2ui.org/" TAGS="" ID="160">A2UI</A>
-  </DL><p>
-  <DT><H3 ID="98">工具</H3>
-  <DL><p>
-    <DT><A HREF="https://www.runoob.com/linux/linux-tutorial.html" TAGS="" ID="161">Linux 教程 | 菜鸟教程</A>
-    <DT><A HREF="https://www.xshell.com/zh/free-for-home-school/" TAGS="" ID="162">Xshell | NetSarang Website</A>
-  </DL><p>
-</DL><p>
 <DT><H3 ID="29">GitHub</H3>
 <DL><p>
   <DT><A HREF="https://github.com/" TAGS="" ID="99">GitHub</A>
@@ -413,6 +375,7 @@
       <DL><p>
         <DT><A HREF="https://open.f.mioffice.cn/app/cli_a81ebda832385062/baseinfo" TAGS="" ID="460">飞书开放平台</A>
         <DT><A HREF="https://console.volcengine.com/ark/region:ark+cn-beijing/overview?briefPage=0&#38;briefType=introduce&#38;type=new" TAGS="" ID="461">火山方舟管理控制台</A>
+        <DT><A HREF="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" TAGS="" ID="510">双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</A>
         <DT><A HREF="https://console.volcengine.com/speech/app?projectName=default" TAGS="" ID="462">豆包语音</A>
       </DL><p>
       <DT><H3 ID="408">阿里云</H3>
@@ -473,64 +436,6 @@
     <DL><p>
       <DT><A HREF="https://mail.xiaomi.com/owa/#path=/mail/inbox" TAGS="" ID="424">邮件 - mafuyu@xiaomi.com</A>
     </DL><p>
-  </DL><p>
-  <DT><H3 ID="271">bac</H3>
-  <DL><p>
-    <DT><H3 ID="311">AI技术</H3>
-    <DL><p>
-      <DT><A HREF="https://tongyi.aliyun.com/" TAGS="" ID="425">通义tongyi.ai_你的全能AI助手-通义千问</A>
-      <DT><A HREF="https://llamafactory.readthedocs.io/zh-cn/latest/index.html" TAGS="" ID="426">LLaMA Factory</A>
-      <DT><A HREF="https://javaai.pig4cloud.com/docs/05Chat%20Stream" TAGS="" ID="427">Chat 流式输出 - 零基础入门Java AI</A>
-      <DT><A HREF="https://docs.langchain4j.dev/get-started" TAGS="" ID="428">Get Started | LangChain4j</A>
-      <DT><A HREF="https://chat.langchain4j.dev/" TAGS="" ID="429">LangChain4j Documentation ChatBot (Experimental)</A>
-      <DT><A HREF="https://dashscope.aliyun.com/" TAGS="" ID="430">模型服务灵积 DashScope - 阿里云</A>
-      <DT><A HREF="https://mcp-docs.cn/introduction" TAGS="" ID="431">MCP 简介 - MCP 中文文档</A>
-      <DT><A HREF="https://baoyueai.com/read/367164" TAGS="" ID="432">包阅AI-你的智能AI阅读助手</A>
-      <DT><A HREF="https://github.com/iwyxdxl/WeChatBot_WXAUTO_SE/releases/tag/3.16" TAGS="" ID="433">Release WeChatBot_WXAUTO_SE_v3.16 · iwyxdxl/WeChatBot_WXAUTO_SE</A>
-    </DL><p>
-    <DT><H3 ID="312">其他</H3>
-    <DL><p>
-      <DT><A HREF="https://rutracker.net/forum/index.php?c=8" TAGS="" ID="434">RuTracker.org</A>
-      <DT><H3 ID="435">else</H3>
-      <DL><p>
-        <DT><A HREF="https://cn.pornhub.com/video" TAGS="" ID="479">免费色情视频：硬核成人色情电影</A>
-        <DT><A HREF="https://bestgore.fun/videos/browse?s=1" TAGS="" ID="480">近期新增 - BestGore.Fun - Because nothing says &#39;fun&#39; like bestgore!</A>
-        <DT><A HREF="https://crazyshit.com/categories/" TAGS="" ID="481"> Crazy Shit</A>
-        <DT><A HREF="https://46glsxxh63.gls2026.com/page/2" TAGS="" ID="482">瓜老师の笔记 - @吃瓜网、看大瓜排行、黑料网！</A>
-        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=64a7a65f4b2f1" TAGS="" ID="483">可爱的学妹为我穿上透视满足我的欲望 - Pornhub.com</A>
-        <DT><A HREF="https://www.pixiv.net/ranking.php?mode=male_r18" TAGS="" ID="484">[pixiv] 受男性欢迎 (R-18)排行榜 2024年12月30日</A>
-        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=64bf90ebcc15c" TAGS="" ID="485">【GINGERTHEDOLL姜姜】自慰潮吹喷水尿尿玩具振动棒36min超长合集合辑 清凉福利 一次看爽 - Pornhub.com</A>
-        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=ph5e91da38703b6" TAGS="" ID="486">禁欲五天的淫穴封印解除 ｜阴蒂玩弄｜浪叫出声｜连续高潮 ｜纯情白丝｜黑化值10% - Pornhub.com</A>
-        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=64df5e09af975" TAGS="" ID="487">呜~我太喜欢这个幻龙了，属实是把我插出白浆了，感觉里面已经是龙龙的形状了！！ - Pornhub.com</A>
-        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=6512546ccfa2d" TAGS="" ID="488">JK 制服女孩自慰无法抑制并喷尿和撒尿很多日本未经审查 - Pornhub.com</A>
-        <DT><A HREF="https://spankbang.com/9ojvg/video/sexy+chinese+amateur+big+butt+perfect+body+masturbate+in+shower+i+found+her+at+porndemon+net" TAGS="" ID="489">Watch Sexy Chinese Amateur Big Butt Perfect Body Masturbate in Shower I found her at porndemon.net - Asian, Doggy, Amateur Porn - SpankBang</A>
-        <DT><A HREF="https://spankbang.com/8lc41/video/porn" TAGS="" ID="490">Watch 寸止挑战第十一期 - Doggy, Blowjob, Handjob Porn - SpankBang</A>
-        <DT><A HREF="https://spankbang.com/9qig3/video/hunk+ch+com+gn058" TAGS="" ID="491">Watch [hunk-ch.com] GN058 - Fuck, Asian, Hardcore Porn - SpankBang</A>
-        <DT><A HREF="https://www.rainlain.com/index.php/2024/09/09/2435/" TAGS="" ID="492">私人推荐：亲吻花瓣（23部汉化合集） – 梦雨玲音</A>
-      </DL><p>
-      <DT><A HREF="https://twitter.com/" TAGS="" ID="436"></A>
-      <DT><A HREF="https://www.eyezmaze.com/game/grow_Island.html" TAGS="" ID="437">GROW Island（游戏） --EYEZMAZE--</A>
-      <DT><A HREF="https://www.douyu.com/7180846?dyshid=12fbc8ca-5a6b62fc393f31ed83a52bb400011601&#38;dyshci=1" TAGS="" ID="438">jjking剑姬直播_英雄联盟直播_斗鱼直播</A>
-      <DT><A HREF="https://www.yinghuadongman.info/" TAGS="" ID="439">樱花动漫-专注动漫的门户网站-樱花动漫官网</A>
-      <DT><A HREF="https://orteil.dashnet.org/cookieclicker/" TAGS="" ID="440">1,268 块饼干 - Cookie Clicker</A>
-      <DT><A HREF="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" TAGS="" ID="441">AIppt制作</A>
-    </DL><p>
-    <DT><H3 ID="313">AI绘画</H3>
-    <DL><p>
-      <DT><A HREF="https://www.liblib.art/?from=aigc.cn" TAGS="" ID="442">LiblibAI-哩布哩布AI - 中国领先的AI创作平台</A>
-    </DL><p>
-  </DL><p>
-  <DT><H3 ID="272">平台bac</H3>
-  <DL><p>
-    <DT><A HREF="https://www.baidu.com/" TAGS="" ID="314">百度一下，你就知道</A>
-    <DT><A HREF="https://chartcube.alipay.com/upload" TAGS="" ID="315">ChartCube - 在线图表制作工具</A>
-    <DT><A HREF="https://bytesfly.github.io/json/" TAGS="" ID="316">Json在线解析及格式化验证 - Json.cn</A>
-    <DT><A HREF="https://sillytavern.wiki/usage/faq/" TAGS="" ID="317">常见问题 | SillyTavern傻酒馆中文文档</A>
-    <DT><A HREF="https://character-tavern.com/" TAGS="" ID="318">Character Tavern | Create &#38; Chat with AI Characters</A>
-    <DT><A HREF="https://www.characterhub.org/?search=&#38;first=50&#38;topics=&#38;excludetopics=&#38;page=1&#38;sort=default&#38;venus=false&#38;min_tokens=50" TAGS="" ID="319">Chub</A>
-    <DT><A HREF="https://api.317ak.cn/UserCenter/mykey?i=2" TAGS="" ID="320">用户中心 - 倾梦API</A>
-    <DT><A HREF="https://nemo2011.github.io/bilibili-api/#/get-credential" TAGS="" ID="321">获取 Credential 类所需信息</A>
-    <DT><A HREF="https://yescaptcha.com/documents.html" TAGS="" ID="322">Yes, Captcha! - 使用统计</A>
   </DL><p>
   <DT><H3 ID="273">OCR&#38;端侧</H3>
   <DL><p>
@@ -616,6 +521,64 @@
       <DT><A HREF="https://unsplash.com/" TAGS="" ID="508">Beautiful Free Images &#38; Pictures | Unsplash</A>
     </DL><p>
   </DL><p>
+  <DT><H3 ID="271">bac</H3>
+  <DL><p>
+    <DT><H3 ID="311">AI技术</H3>
+    <DL><p>
+      <DT><A HREF="https://tongyi.aliyun.com/" TAGS="" ID="425">通义tongyi.ai_你的全能AI助手-通义千问</A>
+      <DT><A HREF="https://llamafactory.readthedocs.io/zh-cn/latest/index.html" TAGS="" ID="426">LLaMA Factory</A>
+      <DT><A HREF="https://javaai.pig4cloud.com/docs/05Chat%20Stream" TAGS="" ID="427">Chat 流式输出 - 零基础入门Java AI</A>
+      <DT><A HREF="https://docs.langchain4j.dev/get-started" TAGS="" ID="428">Get Started | LangChain4j</A>
+      <DT><A HREF="https://chat.langchain4j.dev/" TAGS="" ID="429">LangChain4j Documentation ChatBot (Experimental)</A>
+      <DT><A HREF="https://dashscope.aliyun.com/" TAGS="" ID="430">模型服务灵积 DashScope - 阿里云</A>
+      <DT><A HREF="https://mcp-docs.cn/introduction" TAGS="" ID="431">MCP 简介 - MCP 中文文档</A>
+      <DT><A HREF="https://baoyueai.com/read/367164" TAGS="" ID="432">包阅AI-你的智能AI阅读助手</A>
+      <DT><A HREF="https://github.com/iwyxdxl/WeChatBot_WXAUTO_SE/releases/tag/3.16" TAGS="" ID="433">Release WeChatBot_WXAUTO_SE_v3.16 · iwyxdxl/WeChatBot_WXAUTO_SE</A>
+    </DL><p>
+    <DT><H3 ID="312">其他</H3>
+    <DL><p>
+      <DT><A HREF="https://rutracker.net/forum/index.php?c=8" TAGS="" ID="434">RuTracker.org</A>
+      <DT><H3 ID="435">else</H3>
+      <DL><p>
+        <DT><A HREF="https://cn.pornhub.com/video" TAGS="" ID="479">免费色情视频：硬核成人色情电影</A>
+        <DT><A HREF="https://bestgore.fun/videos/browse?s=1" TAGS="" ID="480">近期新增 - BestGore.Fun - Because nothing says &#39;fun&#39; like bestgore!</A>
+        <DT><A HREF="https://crazyshit.com/categories/" TAGS="" ID="481"> Crazy Shit</A>
+        <DT><A HREF="https://46glsxxh63.gls2026.com/page/2" TAGS="" ID="482">瓜老师の笔记 - @吃瓜网、看大瓜排行、黑料网！</A>
+        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=64a7a65f4b2f1" TAGS="" ID="483">可爱的学妹为我穿上透视满足我的欲望 - Pornhub.com</A>
+        <DT><A HREF="https://www.pixiv.net/ranking.php?mode=male_r18" TAGS="" ID="484">[pixiv] 受男性欢迎 (R-18)排行榜 2024年12月30日</A>
+        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=64bf90ebcc15c" TAGS="" ID="485">【GINGERTHEDOLL姜姜】自慰潮吹喷水尿尿玩具振动棒36min超长合集合辑 清凉福利 一次看爽 - Pornhub.com</A>
+        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=ph5e91da38703b6" TAGS="" ID="486">禁欲五天的淫穴封印解除 ｜阴蒂玩弄｜浪叫出声｜连续高潮 ｜纯情白丝｜黑化值10% - Pornhub.com</A>
+        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=64df5e09af975" TAGS="" ID="487">呜~我太喜欢这个幻龙了，属实是把我插出白浆了，感觉里面已经是龙龙的形状了！！ - Pornhub.com</A>
+        <DT><A HREF="https://cn.pornhub.com/view_video.php?viewkey=6512546ccfa2d" TAGS="" ID="488">JK 制服女孩自慰无法抑制并喷尿和撒尿很多日本未经审查 - Pornhub.com</A>
+        <DT><A HREF="https://spankbang.com/9ojvg/video/sexy+chinese+amateur+big+butt+perfect+body+masturbate+in+shower+i+found+her+at+porndemon+net" TAGS="" ID="489">Watch Sexy Chinese Amateur Big Butt Perfect Body Masturbate in Shower I found her at porndemon.net - Asian, Doggy, Amateur Porn - SpankBang</A>
+        <DT><A HREF="https://spankbang.com/8lc41/video/porn" TAGS="" ID="490">Watch 寸止挑战第十一期 - Doggy, Blowjob, Handjob Porn - SpankBang</A>
+        <DT><A HREF="https://spankbang.com/9qig3/video/hunk+ch+com+gn058" TAGS="" ID="491">Watch [hunk-ch.com] GN058 - Fuck, Asian, Hardcore Porn - SpankBang</A>
+        <DT><A HREF="https://www.rainlain.com/index.php/2024/09/09/2435/" TAGS="" ID="492">私人推荐：亲吻花瓣（23部汉化合集） – 梦雨玲音</A>
+      </DL><p>
+      <DT><A HREF="https://twitter.com/" TAGS="" ID="436"></A>
+      <DT><A HREF="https://www.eyezmaze.com/game/grow_Island.html" TAGS="" ID="437">GROW Island（游戏） --EYEZMAZE--</A>
+      <DT><A HREF="https://www.douyu.com/7180846?dyshid=12fbc8ca-5a6b62fc393f31ed83a52bb400011601&#38;dyshci=1" TAGS="" ID="438">jjking剑姬直播_英雄联盟直播_斗鱼直播</A>
+      <DT><A HREF="https://www.yinghuadongman.info/" TAGS="" ID="439">樱花动漫-专注动漫的门户网站-樱花动漫官网</A>
+      <DT><A HREF="https://orteil.dashnet.org/cookieclicker/" TAGS="" ID="440">1,268 块饼干 - Cookie Clicker</A>
+      <DT><A HREF="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" TAGS="" ID="441">AIppt制作</A>
+    </DL><p>
+    <DT><H3 ID="313">AI绘画</H3>
+    <DL><p>
+      <DT><A HREF="https://www.liblib.art/?from=aigc.cn" TAGS="" ID="442">LiblibAI-哩布哩布AI - 中国领先的AI创作平台</A>
+    </DL><p>
+  </DL><p>
+  <DT><H3 ID="272">平台bac</H3>
+  <DL><p>
+    <DT><A HREF="https://www.baidu.com/" TAGS="" ID="314">百度一下，你就知道</A>
+    <DT><A HREF="https://chartcube.alipay.com/upload" TAGS="" ID="315">ChartCube - 在线图表制作工具</A>
+    <DT><A HREF="https://bytesfly.github.io/json/" TAGS="" ID="316">Json在线解析及格式化验证 - Json.cn</A>
+    <DT><A HREF="https://sillytavern.wiki/usage/faq/" TAGS="" ID="317">常见问题 | SillyTavern傻酒馆中文文档</A>
+    <DT><A HREF="https://character-tavern.com/" TAGS="" ID="318">Character Tavern | Create &#38; Chat with AI Characters</A>
+    <DT><A HREF="https://www.characterhub.org/?search=&#38;first=50&#38;topics=&#38;excludetopics=&#38;page=1&#38;sort=default&#38;venus=false&#38;min_tokens=50" TAGS="" ID="319">Chub</A>
+    <DT><A HREF="https://api.317ak.cn/UserCenter/mykey?i=2" TAGS="" ID="320">用户中心 - 倾梦API</A>
+    <DT><A HREF="https://nemo2011.github.io/bilibili-api/#/get-credential" TAGS="" ID="321">获取 Credential 类所需信息</A>
+    <DT><A HREF="https://yescaptcha.com/documents.html" TAGS="" ID="322">Yes, Captcha! - 使用统计</A>
+  </DL><p>
   <DT><H3 ID="509">最近工作用</H3>
   <DL><p>
     <DT><A HREF="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" TAGS="" ID="463">双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</A>
@@ -699,6 +662,44 @@
   <DT><A HREF="https://falcon.mioffice.cn/#/falcon-new/prometheus-overview" TAGS="" ID="91">falcon</A>
   <DT><A HREF="https://offer.hr.mioffice.cn/express" TAGS="" ID="92">小米入职系统</A>
   <DT><A HREF="https://zkview.d.xiaomi.net/clusters/staging/nodes" TAGS="" ID="93">Shepher</A>
+</DL><p>
+<DT><H3 ID="28">官方文档</H3>
+<DL><p>
+  <DT><H3 ID="94">前端</H3>
+  <DL><p>
+    <DT><A HREF="https://element-plus.org/zh-CN/guide/design.html" TAGS="" ID="143">设计 | Element Plus</A>
+    <DT><A HREF="https://pinia.vuejs.org/zh/introduction.html" TAGS="" ID="144">Pinia</A>
+    <DT><A HREF="https://www.iconfont.cn/" TAGS="" ID="145">iconfont-阿里巴巴矢量图标库</A>
+    <DT><A HREF="https://cn.vuejs.org/" TAGS="" ID="146">Vue.js - 渐进式 JavaScript 框架 | Vue.js</A>
+  </DL><p>
+  <DT><H3 ID="95">后端</H3>
+  <DL><p>
+    <DT><A HREF="https://spring.io/projects/spring-ai" TAGS="" ID="147">Spring AI</A>
+    <DT><A HREF="https://baomidou.com/" TAGS="" ID="148">MyBatis-Plus 🚀 为简化开发而生</A>
+    <DT><A HREF="https://mybatis.org/mybatis-3/zh_CN/getting-started.html" TAGS="" ID="149">MyBatis 3 | 入门 – mybatis</A>
+    <DT><A HREF="https://java2ai.com/docs/dev/get-started/" TAGS="" ID="150">快速开始-阿里云Spring AI Alibaba官网官网</A>
+    <DT><A HREF="https://docs.langchain4j.dev/intro" TAGS="" ID="151">Introduction | LangChain4j</A>
+    <DT><A HREF="https://www.hutool.cn/docs/#/" TAGS="" ID="152">Hutool</A>
+    <DT><A HREF="https://www.rabbitmq.com/docs" TAGS="" ID="153">RabbitMQ</A>
+    <DT><A HREF="https://www.thymeleaf.org/doc/tutorials/3.1/thymeleafspring.html" TAGS="" ID="154">教程：Thymeleaf + Spring</A>
+  </DL><p>
+  <DT><H3 ID="96">小米平台接口</H3>
+  <DL><p>
+    <DT><A HREF="http://doc.t.pt.miui.com/middle_doc/audit/%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B.html" TAGS="" ID="155">审核平台接入接口</A>
+    <DT><A HREF="https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1559" TAGS="" ID="156">服务器API地址以及参数 | 小米澎湃OS开发者平台</A>
+  </DL><p>
+  <DT><H3 ID="97">Agent</H3>
+  <DL><p>
+    <DT><A HREF="https://docs.n8n.io/" TAGS="" ID="157">Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs</A>
+    <DT><A HREF="https://docs.dify.ai/zh-hans/introduction" TAGS="" ID="158">产品简介 - Dify Docs</A>
+    <DT><A HREF="https://opencode.ai/docs" TAGS="" ID="159">Intro | OpenCode</A>
+    <DT><A HREF="https://a2ui.org/" TAGS="" ID="160">A2UI</A>
+  </DL><p>
+  <DT><H3 ID="98">工具</H3>
+  <DL><p>
+    <DT><A HREF="https://www.runoob.com/linux/linux-tutorial.html" TAGS="" ID="161">Linux 教程 | 菜鸟教程</A>
+    <DT><A HREF="https://www.xshell.com/zh/free-for-home-school/" TAGS="" ID="162">Xshell | NetSarang Website</A>
+  </DL><p>
 </DL><p>
 <DT><H3 ID="263">Other Bookmarks</H3>
 <DL><p>
