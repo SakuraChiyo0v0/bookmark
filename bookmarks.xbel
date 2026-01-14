@@ -2,80 +2,6 @@
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Bookmarks</TITLE><!--- highestId :510: for Floccus bookmark sync browser extension -->
 <DL><p>
-<DT><H3 ID="30">平台</H3>
-<DL><p>
-  <DT><H3 ID="104">云服务厂商</H3>
-  <DL><p>
-    <DT><H3 ID="166">腾讯云</H3>
-    <DL><p>
-      <DT><A HREF="https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&#38;rid=4&#38;id=lhins-flrmhtl4&#38;tab=domain&#38;action=registerNewDomain" TAGS="" ID="185">服务器 - 轻量云 - 控制台</A>
-    </DL><p>
-    <DT><H3 ID="167">火山</H3>
-    <DL><p>
-      <DT><A HREF="https://open.f.mioffice.cn/app/cli_a81ebda832385062/baseinfo" TAGS="" ID="186">飞书开放平台</A>
-      <DT><A HREF="https://console.volcengine.com/ark/region:ark+cn-beijing/overview?briefPage=0&#38;briefType=introduce&#38;type=new" TAGS="" ID="187">火山方舟管理控制台</A>
-      <DT><A HREF="https://console.volcengine.com/speech/app?projectName=default" TAGS="" ID="188">豆包语音</A>
-      <DT><A HREF="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" TAGS="" ID="189">双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</A>
-    </DL><p>
-    <DT><H3 ID="168">阿里云</H3>
-    <DL><p>
-      <DT><A HREF="https://bailian.console.aliyun.com/?utm_content=se_1021228191&#38;gclid=EAIaIQobChMI3YXe7rLAjgMVjxp7Bx0EvzOAEAAYASAAEgJqp_D_BwE#/home" TAGS="" ID="190">大模型服务平台百炼控制台</A>
-      <DT><A HREF="https://oss.console.aliyun.com/overview" TAGS="" ID="191">OSS管理控制台</A>
-      <DT><A HREF="https://common-buy.aliyun.com/?spm=a2c4g.11186623.0.0.237a2e0e2npJjG&#38;commodityCode=alibababcp_ecosearch_public_cn" TAGS="" ID="192">开通通用搜索</A>
-      <DT><A HREF="https://bailian.console.aliyun.com/#/home" TAGS="" ID="193">阿里云百炼</A>
-    </DL><p>
-  </DL><p>
-  <DT><H3 ID="105">影视</H3>
-  <DL><p>
-    <DT><A HREF="https://www.bilibili.com/" TAGS="" ID="169">哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</A>
-    <DT><A HREF="https://tv.yinghuadongman.info/play_2523-1-1.html" TAGS="" ID="170">正在播放《我推的孩子》第01集_高清1080P在线观看平台_日本动漫_高清版完整视频免费在线播放_樱花动漫-专注动漫的门户网站-樱花动漫官网 - yinghuadongman.info</A>
-    <DT><A HREF="https://www.4kvm.pro/seasons/aerbli" TAGS="" ID="171">切尔诺贝利: 第1季 - 全集免费在线播放 - 4k影视</A>
-  </DL><p>
-  <DT><H3 ID="106">游戏</H3>
-  <DL><p>
-    <DT><A HREF="https://www.op.gg/champions" TAGS="" ID="172">Champion Tier List for 上单, 华贵铂金 +, Patch 13.03 - League of Legends</A>
-    <DT><A HREF="https://modrinth.com/" TAGS="" ID="173">Modrinth</A>
-    <DT><A HREF="https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5" TAGS="" ID="174">GTNH中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司</A>
-  </DL><p>
-  <DT><H3 ID="107">河海</H3>
-  <DL><p>
-    <DT><A HREF="https://hhu.91job.org.cn/sub-station/recruitmentDetail?zphid=1000000000073768&#38;xxdm=10294" TAGS="" ID="175">河海大学就业服务管理平台</A>
-    <DT><A HREF="http://zhjs161.hhu.edu.cn/TeachingCenterStudentWeb/index.html#/home.htm" TAGS="" ID="176">云课堂</A>
-    <DT><A HREF="http://my.hhu.edu.cn/portal-web/html/index.html?t=1661415726249" TAGS="" ID="177">河海大学校园信息门户</A>
-    <DT><A HREF="https://smst.hhu.edu.cn/mobile/login.aspx" TAGS="" ID="178">奥蓝学生管理信息系统(学生版)</A>
-    <DT><A HREF="https://my.hhu.edu.cn/portal-web/html/index.html?t=1761556235494" TAGS="" ID="179">my.hhu.edu.cn/portal-web/html/index.html?t=1761556235494</A>
-    <DT><H3 ID="180">论文</H3>
-    <DL><p>
-      <DT><A HREF="https://www.cnki.net/" TAGS="" ID="194">中国知网</A>
-      <DT><A HREF="https://ds.carsi.edu.cn/resource/resourceDetail.php?id=resource:41&#38;rt=purchased" TAGS="" ID="195">教育网联邦认证与资源共享基础设施CARSI-资源详情</A>
-      <DT><A HREF="https://bylw.hhu.edu.cn/Main/Menu.aspx?sid=1OXr+fRtdpilTd2KYN+NtQ....&#38;screen=HMnRbwIgTPQYrZJU72ZcCQ...." TAGS="" ID="196">河海大学毕业设计（论文）智能管理系统</A>
-      <DT><A HREF="https://topic.wanfangdata.com.cn/" TAGS="" ID="197">万方数据-万方选题-更专业的选题助手</A>
-    </DL><p>
-  </DL><p>
-  <DT><H3 ID="108">AI创作</H3>
-  <DL><p>
-    <DT><H3 ID="181">图片</H3>
-    <DL><p>
-      <DT><A HREF="https://spell.novelai.dev/" TAGS="" ID="198">Stable Diffusion 法术解析</A>
-      <DT><A HREF="https://tags.novelai.dev/" TAGS="" ID="199">Danbooru 标签超市</A>
-      <DT><A HREF="https://platform.stability.ai/account/credits" TAGS="" ID="200">稳定性人工智能 - 开发者平台</A>
-    </DL><p>
-    <DT><H3 ID="182">音乐</H3>
-    <DL><p>
-      <DT><A HREF="https://suno.com/account" TAGS="" ID="201">Suno</A>
-      <DT><A HREF="https://github.com/jianchang512/ChatTTS-ui/releases" TAGS="" ID="202">Releases · jianchang512/ChatTTS-ui</A>
-      <DT><A HREF="https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e?" TAGS="" ID="203">GPT-SoVITS指南</A>
-      <DT><A HREF="https://vocalremover.org/zh/splitter-ai" TAGS="" ID="204">乐器分离器</A>
-    </DL><p>
-    <DT><H3 ID="183">视频</H3>
-    <DL><p>
-    </DL><p>
-  </DL><p>
-  <DT><H3 ID="109">通讯</H3>
-  <DL><p>
-    <DT><A HREF="https://mail.xiaomi.com/owa/#path=/mail/inbox" TAGS="" ID="184">邮件 - mafuyu@xiaomi.com</A>
-  </DL><p>
-</DL><p>
 <DT><H3 ID="205">bac</H3>
 <DL><p>
   <DT><H3 ID="207">AI技术</H3>
@@ -700,6 +626,80 @@
   <DT><A HREF="https://github.com/linshenkx/prompt-optimizer" TAGS="" ID="101">linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</A>
   <DT><A HREF="https://github.com/springaialibaba/spring-ai-alibaba-examples/blob/main/docker-compose/zipkin/docker-compose.yml?spm=4347728f.53938564.0.0.13232b0e4QAuNQ&#38;file=docker-compose.yml" TAGS="" ID="102">zipkin</A>
   <DT><A HREF="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" TAGS="" ID="103">spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</A>
+</DL><p>
+<DT><H3 ID="30">平台</H3>
+<DL><p>
+  <DT><H3 ID="104">云服务厂商</H3>
+  <DL><p>
+    <DT><H3 ID="166">腾讯云</H3>
+    <DL><p>
+      <DT><A HREF="https://console.cloud.tencent.com/lighthouse/instance/detail?searchParams=rid%3D1&#38;rid=4&#38;id=lhins-flrmhtl4&#38;tab=domain&#38;action=registerNewDomain" TAGS="" ID="185">服务器 - 轻量云 - 控制台</A>
+    </DL><p>
+    <DT><H3 ID="167">火山</H3>
+    <DL><p>
+      <DT><A HREF="https://open.f.mioffice.cn/app/cli_a81ebda832385062/baseinfo" TAGS="" ID="186">飞书开放平台</A>
+      <DT><A HREF="https://console.volcengine.com/ark/region:ark+cn-beijing/overview?briefPage=0&#38;briefType=introduce&#38;type=new" TAGS="" ID="187">火山方舟管理控制台</A>
+      <DT><A HREF="https://console.volcengine.com/speech/app?projectName=default" TAGS="" ID="188">豆包语音</A>
+      <DT><A HREF="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" TAGS="" ID="189">双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</A>
+    </DL><p>
+    <DT><H3 ID="168">阿里云</H3>
+    <DL><p>
+      <DT><A HREF="https://bailian.console.aliyun.com/?utm_content=se_1021228191&#38;gclid=EAIaIQobChMI3YXe7rLAjgMVjxp7Bx0EvzOAEAAYASAAEgJqp_D_BwE#/home" TAGS="" ID="190">大模型服务平台百炼控制台</A>
+      <DT><A HREF="https://oss.console.aliyun.com/overview" TAGS="" ID="191">OSS管理控制台</A>
+      <DT><A HREF="https://common-buy.aliyun.com/?spm=a2c4g.11186623.0.0.237a2e0e2npJjG&#38;commodityCode=alibababcp_ecosearch_public_cn" TAGS="" ID="192">开通通用搜索</A>
+      <DT><A HREF="https://bailian.console.aliyun.com/#/home" TAGS="" ID="193">阿里云百炼</A>
+    </DL><p>
+  </DL><p>
+  <DT><H3 ID="105">影视</H3>
+  <DL><p>
+    <DT><A HREF="https://www.bilibili.com/" TAGS="" ID="169">哔哩哔哩 (゜-゜)つロ 干杯~-bilibili</A>
+    <DT><A HREF="https://tv.yinghuadongman.info/play_2523-1-1.html" TAGS="" ID="170">正在播放《我推的孩子》第01集_高清1080P在线观看平台_日本动漫_高清版完整视频免费在线播放_樱花动漫-专注动漫的门户网站-樱花动漫官网 - yinghuadongman.info</A>
+    <DT><A HREF="https://www.4kvm.pro/seasons/aerbli" TAGS="" ID="171">切尔诺贝利: 第1季 - 全集免费在线播放 - 4k影视</A>
+  </DL><p>
+  <DT><H3 ID="106">游戏</H3>
+  <DL><p>
+    <DT><A HREF="https://www.op.gg/champions" TAGS="" ID="172">Champion Tier List for 上单, 华贵铂金 +, Patch 13.03 - League of Legends</A>
+    <DT><A HREF="https://modrinth.com/" TAGS="" ID="173">Modrinth</A>
+    <DT><A HREF="https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5" TAGS="" ID="174">GTNH中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司</A>
+  </DL><p>
+  <DT><H3 ID="107">河海</H3>
+  <DL><p>
+    <DT><A HREF="https://hhu.91job.org.cn/sub-station/recruitmentDetail?zphid=1000000000073768&#38;xxdm=10294" TAGS="" ID="175">河海大学就业服务管理平台</A>
+    <DT><A HREF="http://zhjs161.hhu.edu.cn/TeachingCenterStudentWeb/index.html#/home.htm" TAGS="" ID="176">云课堂</A>
+    <DT><A HREF="http://my.hhu.edu.cn/portal-web/html/index.html?t=1661415726249" TAGS="" ID="177">河海大学校园信息门户</A>
+    <DT><A HREF="https://smst.hhu.edu.cn/mobile/login.aspx" TAGS="" ID="178">奥蓝学生管理信息系统(学生版)</A>
+    <DT><A HREF="https://my.hhu.edu.cn/portal-web/html/index.html?t=1761556235494" TAGS="" ID="179">my.hhu.edu.cn/portal-web/html/index.html?t=1761556235494</A>
+    <DT><H3 ID="180">论文</H3>
+    <DL><p>
+      <DT><A HREF="https://www.cnki.net/" TAGS="" ID="194">中国知网</A>
+      <DT><A HREF="https://ds.carsi.edu.cn/resource/resourceDetail.php?id=resource:41&#38;rt=purchased" TAGS="" ID="195">教育网联邦认证与资源共享基础设施CARSI-资源详情</A>
+      <DT><A HREF="https://bylw.hhu.edu.cn/Main/Menu.aspx?sid=1OXr+fRtdpilTd2KYN+NtQ....&#38;screen=HMnRbwIgTPQYrZJU72ZcCQ...." TAGS="" ID="196">河海大学毕业设计（论文）智能管理系统</A>
+      <DT><A HREF="https://topic.wanfangdata.com.cn/" TAGS="" ID="197">万方数据-万方选题-更专业的选题助手</A>
+    </DL><p>
+  </DL><p>
+  <DT><H3 ID="108">AI创作</H3>
+  <DL><p>
+    <DT><H3 ID="181">图片</H3>
+    <DL><p>
+      <DT><A HREF="https://spell.novelai.dev/" TAGS="" ID="198">Stable Diffusion 法术解析</A>
+      <DT><A HREF="https://tags.novelai.dev/" TAGS="" ID="199">Danbooru 标签超市</A>
+      <DT><A HREF="https://platform.stability.ai/account/credits" TAGS="" ID="200">稳定性人工智能 - 开发者平台</A>
+    </DL><p>
+    <DT><H3 ID="182">音乐</H3>
+    <DL><p>
+      <DT><A HREF="https://suno.com/account" TAGS="" ID="201">Suno</A>
+      <DT><A HREF="https://github.com/jianchang512/ChatTTS-ui/releases" TAGS="" ID="202">Releases · jianchang512/ChatTTS-ui</A>
+      <DT><A HREF="https://www.yuque.com/baicaigongchang1145haoyuangong/ib3g1e?" TAGS="" ID="203">GPT-SoVITS指南</A>
+      <DT><A HREF="https://vocalremover.org/zh/splitter-ai" TAGS="" ID="204">乐器分离器</A>
+    </DL><p>
+    <DT><H3 ID="183">视频</H3>
+    <DL><p>
+    </DL><p>
+  </DL><p>
+  <DT><H3 ID="109">通讯</H3>
+  <DL><p>
+    <DT><A HREF="https://mail.xiaomi.com/owa/#path=/mail/inbox" TAGS="" ID="184">邮件 - mafuyu@xiaomi.com</A>
+  </DL><p>
 </DL><p>
 <DT><H3 ID="263">Other Bookmarks</H3>
 <DL><p>
