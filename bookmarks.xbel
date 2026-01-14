@@ -414,7 +414,6 @@
         <DT><A HREF="https://open.f.mioffice.cn/app/cli_a81ebda832385062/baseinfo" TAGS="" ID="460">飞书开放平台</A>
         <DT><A HREF="https://console.volcengine.com/ark/region:ark+cn-beijing/overview?briefPage=0&#38;briefType=introduce&#38;type=new" TAGS="" ID="461">火山方舟管理控制台</A>
         <DT><A HREF="https://console.volcengine.com/speech/app?projectName=default" TAGS="" ID="462">豆包语音</A>
-        <DT><A HREF="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" TAGS="" ID="463">双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</A>
       </DL><p>
       <DT><H3 ID="408">阿里云</H3>
       <DL><p>
@@ -619,6 +618,7 @@
   </DL><p>
   <DT><H3 ID="509">最近工作用</H3>
   <DL><p>
+    <DT><A HREF="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" TAGS="" ID="463">双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</A>
   </DL><p>
 </DL><p>
 <DT><H3 ID="26">大模型平台</H3>
