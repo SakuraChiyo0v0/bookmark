@@ -2,19 +2,6 @@
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Bookmarks</TITLE><!--- highestId :510: for Floccus bookmark sync browser extension -->
 <DL><p>
-<DT><H3 ID="29">GitHub</H3>
-<DL><p>
-  <DT><A HREF="https://github.com/" TAGS="" ID="99">GitHub</A>
-  <DT><H3 ID="100">AI</H3>
-  <DL><p>
-    <DT><A HREF="https://github.com/langchain4j/langchain4j/" TAGS="" ID="163">langchain4j/langchain4j: Java version of LangChain</A>
-    <DT><A HREF="https://github.com/zai-org/Open-AutoGLM/tree/main" TAGS="" ID="164">zai-org/Open-AutoGLM: An Open Phone Agent Model &#38; Framework. Unlocking the AI Phone for Everyone</A>
-    <DT><A HREF="https://github.com/langgenius/dify/blob/main/README_CN.md" TAGS="" ID="165">dify/README_CN.md at main · langgenius/dify</A>
-  </DL><p>
-  <DT><A HREF="https://github.com/linshenkx/prompt-optimizer" TAGS="" ID="101">linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</A>
-  <DT><A HREF="https://github.com/springaialibaba/spring-ai-alibaba-examples/blob/main/docker-compose/zipkin/docker-compose.yml?spm=4347728f.53938564.0.0.13232b0e4QAuNQ&#38;file=docker-compose.yml" TAGS="" ID="102">zipkin</A>
-  <DT><A HREF="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" TAGS="" ID="103">spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</A>
-</DL><p>
 <DT><H3 ID="30">平台</H3>
 <DL><p>
   <DT><H3 ID="104">云服务厂商</H3>
@@ -700,6 +687,19 @@
     <DT><A HREF="https://www.runoob.com/linux/linux-tutorial.html" TAGS="" ID="161">Linux 教程 | 菜鸟教程</A>
     <DT><A HREF="https://www.xshell.com/zh/free-for-home-school/" TAGS="" ID="162">Xshell | NetSarang Website</A>
   </DL><p>
+</DL><p>
+<DT><H3 ID="29">GitHub</H3>
+<DL><p>
+  <DT><A HREF="https://github.com/" TAGS="" ID="99">GitHub</A>
+  <DT><H3 ID="100">AI</H3>
+  <DL><p>
+    <DT><A HREF="https://github.com/langchain4j/langchain4j/" TAGS="" ID="163">langchain4j/langchain4j: Java version of LangChain</A>
+    <DT><A HREF="https://github.com/zai-org/Open-AutoGLM/tree/main" TAGS="" ID="164">zai-org/Open-AutoGLM: An Open Phone Agent Model &#38; Framework. Unlocking the AI Phone for Everyone</A>
+    <DT><A HREF="https://github.com/langgenius/dify/blob/main/README_CN.md" TAGS="" ID="165">dify/README_CN.md at main · langgenius/dify</A>
+  </DL><p>
+  <DT><A HREF="https://github.com/linshenkx/prompt-optimizer" TAGS="" ID="101">linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</A>
+  <DT><A HREF="https://github.com/springaialibaba/spring-ai-alibaba-examples/blob/main/docker-compose/zipkin/docker-compose.yml?spm=4347728f.53938564.0.0.13232b0e4QAuNQ&#38;file=docker-compose.yml" TAGS="" ID="102">zipkin</A>
+  <DT><A HREF="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" TAGS="" ID="103">spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</A>
 </DL><p>
 <DT><H3 ID="263">Other Bookmarks</H3>
 <DL><p>
