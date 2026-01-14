@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :248: for Floccus bookmark sync browser extension -->
+<!--- highestId :250: for Floccus bookmark sync browser extension -->
 
 <folder id="3">
   <title>大模型平台</title>
@@ -137,7 +137,7 @@
       <title>内容审核平台-测试环境</title>
     </bookmark>
     <bookmark href="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&amp;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="118">
-      <title> Elastic-测试环境</title>
+      <title>Elastic-测试环境</title>
     </bookmark>
     <bookmark href="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&amp;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="119">
       <title>Elastic-正式环境</title>
@@ -261,6 +261,12 @@
     </bookmark>
     <bookmark href="https://github.com/langgenius/dify/blob/main/README_CN.md" id="143">
       <title>dify/README_CN.md at main · langgenius/dify</title>
+    </bookmark>
+  </folder>
+  <folder id="249">
+    <title>MyProject</title>
+    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="250">
+      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
     </bookmark>
   </folder>
   <bookmark href="https://github.com/linshenkx/prompt-optimizer" id="40">
@@ -643,7 +649,7 @@
         <title>近期新增 - BestGore.Fun - Because nothing says &apos;fun&apos; like bestgore!</title>
       </bookmark>
       <bookmark href="https://crazyshit.com/categories/" id="237">
-        <title> Crazy Shit</title>
+        <title>Crazy Shit</title>
       </bookmark>
       <bookmark href="https://46glsxxh63.gls2026.com/page/2" id="238">
         <title>瓜老师の笔记 - @吃瓜网、看大瓜排行、黑料网！</title>
