@@ -2,54 +2,6 @@
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
 <TITLE>Bookmarks</TITLE><!--- highestId :508: for Floccus bookmark sync browser extension -->
 <DL><p>
-<DT><H3 ID="27">小米平台</H3>
-<DL><p>
-  <DT><H3 ID="83">GitLab</H3>
-  <DL><p>
-    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-data" TAGS="" ID="117">ai-search / ai-search-data · GitLab</A>
-    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-llm-api" TAGS="" ID="118">ai-search / ai-search-llm-api · GitLab</A>
-    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-cms-api" TAGS="" ID="119">ai-search / ai-search-cms-api · GitLab</A>
-    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-agent-api" TAGS="" ID="120">ai-search / ai-search-agent-api · GitLab</A>
-    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-data-api" TAGS="" ID="121">ai-search / ai-search-data-api · GitLab</A>
-    <DT><A HREF="https://git.n.xiaomi.com/global-search/ai-search" TAGS="" ID="122">GLOBAL_SEARCH / ai-search · 极狐GitLab</A>
-  </DL><p>
-  <DT><H3 ID="84">Matrix</H3>
-  <DL><p>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79897?projectId=471181" TAGS="" ID="123">MATRIX-小米融合云</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/78790?projectId=471181" TAGS="" ID="124">MATRIX-agent-staging</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70582?projectId=481187&#38;tab=instance" TAGS="" ID="125">MATRIX-data-staging</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63869?projectId=471181" TAGS="" ID="126">MATRIX-llm-api-staging</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/75678?projectId=471181" TAGS="" ID="127">MATRIX-cms-staging</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70859?projectId=481187" TAGS="" ID="128">MATRIX-data-preview</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/76559?projectId=471181" TAGS="" ID="129">MATRIX-cms-preview</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79054?projectId=471181&#38;tab=instance" TAGS="" ID="130">MATRIX-agent-preview</A>
-    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63870?projectId=471181" TAGS="" ID="131">MATRIX-llm-preview</A>
-  </DL><p>
-  <DT><H3 ID="85">中间件</H3>
-  <DL><p>
-    <DT><A HREF="https://cloud.d.xiaomi.net/redis/cache/resource?projectId=482877" TAGS="" ID="132">REDIS-小米融合云</A>
-    <DT><A HREF="https://cloud.mioffice.cn/keycenter/sid/encry?sid=miui-search&#38;projectId=22856&#38;env=cn" TAGS="" ID="133">KEYCENTER-小米融合云</A>
-    <DT><A HREF="https://cloud.mioffice.cn/fusion-ui/#/product/file-store/buckets" TAGS="" ID="134">FDS - ai-search-bucket</A>
-  </DL><p>
-  <DT><H3 ID="86">平台服务</H3>
-  <DL><p>
-    <DT><A HREF="http://cloudml.ai.srv/#/overview?cluster=c5&#38;type=cloudml" TAGS="" ID="135">CloudML</A>
-    <DT><A HREF="https://manage.migc.xiaomi.com/#/" TAGS="" ID="136">小米游戏乐高平台-正式环境</A>
-    <DT><A HREF="http://dev.hyfe.game.node.g.mi.com/migc2-lego-system/#/" TAGS="" ID="137">小米游戏乐高平台-测试环境</A>
-    <DT><A HREF="https://content-review.crcp.xiaomi.com/#/401" TAGS="" ID="138">内容审核平台-正式环境</A>
-    <DT><A HREF="http://staging.review.inf.miui.com/audit/#/audit/auditFirst?page=1&#38;limit=20&#38;queueType=0" TAGS="" ID="139">内容审核平台-测试环境</A>
-    <DT><A HREF="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&#38;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&#39;&#39;),sort:!(!(timestamp,desc)))" TAGS="" ID="140"> Elastic-测试环境</A>
-    <DT><A HREF="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&#38;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&#39;&#39;),sort:!(!(timestamp,desc)))" TAGS="" ID="141">Elastic-正式环境</A>
-    <DT><A HREF="https://falcon.mioffice.cn/grafana/d/H20vV6XNk/zhu-gan-he-xin-zhi-biao?orgId=1&#38;teamId=31754&#38;treeId=2&#38;from=now-6h&#38;to=now&#38;refresh=5s" TAGS="" ID="142">主干核心指标 - Grafana</A>
-  </DL><p>
-  <DT><A HREF="https://pkgs.d.xiaomi.net/ui/packages#/home" TAGS="" ID="87">Packages - artifactory</A>
-  <DT><A HREF="https://edu.mioffice.cn/clientcn/exam/18077/questions?title=2025%E4%BA%92%E9%83%A8%E8%B4%A8%E9%87%8F%E8%80%83%E8%AF%95-%E5%86%85%E5%AE%B9%E7%94%9F%E6%80%81%E9%83%A8&#38;flag=test&#38;totaltime=20" TAGS="" ID="88">清河大学</A>
-  <DT><A HREF="https://cloud.mioffice.cn/micr/iam/project/agent-495172/detail?projectId=495172" TAGS="" ID="89">MICR-小米融合云</A>
-  <DT><A HREF="https://michat.ai.xiaomi.com/wk" TAGS="" ID="90">Mi Chat</A>
-  <DT><A HREF="https://falcon.mioffice.cn/#/falcon-new/prometheus-overview" TAGS="" ID="91">falcon</A>
-  <DT><A HREF="https://offer.hr.mioffice.cn/express" TAGS="" ID="92">小米入职系统</A>
-  <DT><A HREF="https://zkview.d.xiaomi.net/clusters/staging/nodes" TAGS="" ID="93">Shepher</A>
-</DL><p>
 <DT><H3 ID="28">官方文档</H3>
 <DL><p>
   <DT><H3 ID="94">前端</H3>
@@ -696,6 +648,54 @@
   <DT><A HREF="https://console.cloud.tencent.com/lighthouse/instance/index?rid=1" TAGS="" ID="31">服务器 - 轻量云 - 控制台</A>
   <DT><A HREF="https://1.15.244.131:8888/home" TAGS="" ID="32">宝塔面板·腾讯云专享版</A>
   <DT><A HREF="http://astr.amechan.cloud/#/dashboard/default" TAGS="" ID="33">AstrBot - 仪表盘</A>
+</DL><p>
+<DT><H3 ID="27">小米平台</H3>
+<DL><p>
+  <DT><H3 ID="83">GitLab</H3>
+  <DL><p>
+    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-data" TAGS="" ID="117">ai-search / ai-search-data · GitLab</A>
+    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-llm-api" TAGS="" ID="118">ai-search / ai-search-llm-api · GitLab</A>
+    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-cms-api" TAGS="" ID="119">ai-search / ai-search-cms-api · GitLab</A>
+    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-agent-api" TAGS="" ID="120">ai-search / ai-search-agent-api · GitLab</A>
+    <DT><A HREF="https://git.n.xiaomi.com/aisearch/ai-search-data-api" TAGS="" ID="121">ai-search / ai-search-data-api · GitLab</A>
+    <DT><A HREF="https://git.n.xiaomi.com/global-search/ai-search" TAGS="" ID="122">GLOBAL_SEARCH / ai-search · 极狐GitLab</A>
+  </DL><p>
+  <DT><H3 ID="84">Matrix</H3>
+  <DL><p>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79897?projectId=471181" TAGS="" ID="123">MATRIX-小米融合云</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/78790?projectId=471181" TAGS="" ID="124">MATRIX-agent-staging</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70582?projectId=481187&#38;tab=instance" TAGS="" ID="125">MATRIX-data-staging</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63869?projectId=471181" TAGS="" ID="126">MATRIX-llm-api-staging</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/75678?projectId=471181" TAGS="" ID="127">MATRIX-cms-staging</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70859?projectId=481187" TAGS="" ID="128">MATRIX-data-preview</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/76559?projectId=471181" TAGS="" ID="129">MATRIX-cms-preview</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79054?projectId=471181&#38;tab=instance" TAGS="" ID="130">MATRIX-agent-preview</A>
+    <DT><A HREF="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63870?projectId=471181" TAGS="" ID="131">MATRIX-llm-preview</A>
+  </DL><p>
+  <DT><H3 ID="85">中间件</H3>
+  <DL><p>
+    <DT><A HREF="https://cloud.d.xiaomi.net/redis/cache/resource?projectId=482877" TAGS="" ID="132">REDIS-小米融合云</A>
+    <DT><A HREF="https://cloud.mioffice.cn/keycenter/sid/encry?sid=miui-search&#38;projectId=22856&#38;env=cn" TAGS="" ID="133">KEYCENTER-小米融合云</A>
+    <DT><A HREF="https://cloud.mioffice.cn/fusion-ui/#/product/file-store/buckets" TAGS="" ID="134">FDS - ai-search-bucket</A>
+  </DL><p>
+  <DT><H3 ID="86">平台服务</H3>
+  <DL><p>
+    <DT><A HREF="http://cloudml.ai.srv/#/overview?cluster=c5&#38;type=cloudml" TAGS="" ID="135">CloudML</A>
+    <DT><A HREF="https://manage.migc.xiaomi.com/#/" TAGS="" ID="136">小米游戏乐高平台-正式环境</A>
+    <DT><A HREF="http://dev.hyfe.game.node.g.mi.com/migc2-lego-system/#/" TAGS="" ID="137">小米游戏乐高平台-测试环境</A>
+    <DT><A HREF="https://content-review.crcp.xiaomi.com/#/401" TAGS="" ID="138">内容审核平台-正式环境</A>
+    <DT><A HREF="http://staging.review.inf.miui.com/audit/#/audit/auditFirst?page=1&#38;limit=20&#38;queueType=0" TAGS="" ID="139">内容审核平台-测试环境</A>
+    <DT><A HREF="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&#38;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&#39;&#39;),sort:!(!(timestamp,desc)))" TAGS="" ID="140"> Elastic-测试环境</A>
+    <DT><A HREF="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&#38;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&#39;&#39;),sort:!(!(timestamp,desc)))" TAGS="" ID="141">Elastic-正式环境</A>
+    <DT><A HREF="https://falcon.mioffice.cn/grafana/d/H20vV6XNk/zhu-gan-he-xin-zhi-biao?orgId=1&#38;teamId=31754&#38;treeId=2&#38;from=now-6h&#38;to=now&#38;refresh=5s" TAGS="" ID="142">主干核心指标 - Grafana</A>
+  </DL><p>
+  <DT><A HREF="https://pkgs.d.xiaomi.net/ui/packages#/home" TAGS="" ID="87">Packages - artifactory</A>
+  <DT><A HREF="https://edu.mioffice.cn/clientcn/exam/18077/questions?title=2025%E4%BA%92%E9%83%A8%E8%B4%A8%E9%87%8F%E8%80%83%E8%AF%95-%E5%86%85%E5%AE%B9%E7%94%9F%E6%80%81%E9%83%A8&#38;flag=test&#38;totaltime=20" TAGS="" ID="88">清河大学</A>
+  <DT><A HREF="https://cloud.mioffice.cn/micr/iam/project/agent-495172/detail?projectId=495172" TAGS="" ID="89">MICR-小米融合云</A>
+  <DT><A HREF="https://michat.ai.xiaomi.com/wk" TAGS="" ID="90">Mi Chat</A>
+  <DT><A HREF="https://falcon.mioffice.cn/#/falcon-new/prometheus-overview" TAGS="" ID="91">falcon</A>
+  <DT><A HREF="https://offer.hr.mioffice.cn/express" TAGS="" ID="92">小米入职系统</A>
+  <DT><A HREF="https://zkview.d.xiaomi.net/clusters/staging/nodes" TAGS="" ID="93">Shepher</A>
 </DL><p>
 <DT><H3 ID="263">Other Bookmarks</H3>
 <DL><p>
