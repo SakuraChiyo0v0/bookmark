@@ -1,27 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
-<xbel version="1.0">
-<!--- highestId :8: for Floccus bookmark sync browser extension -->
-
-<folder id="1">
-  <title>Window 0</title>
-  <bookmark href="edge://newtab/" id="2">
-    <title>新建标签页</title>
-  </bookmark>
-  <bookmark href="https://github.com/settings/tokens" id="3">
-    <title>Personal Access Tokens (Classic)</title>
-  </bookmark>
-  <bookmark href="https://cn.bing.com/search?pglt=929&amp;q=githubtoken&amp;cvid=7751bbb740fd44e2ad8ebbfa19342fba&amp;gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyNDg5ajBqMagCCLACAQ&amp;FORM=ANNTA1&amp;PC=U531" id="4">
-    <title>githubtoken - 搜索</title>
-  </bookmark>
-  <bookmark href="https://zhuanlan.zhihu.com/p/501872439" id="5">
-    <title>github访问令牌token的创建方法 - 知乎</title>
-  </bookmark>
-  <bookmark href="https://blog.csdn.net/gitblog_00712/article/details/156751915" id="6">
-    <title>GitHub Token配置完全指南：从获取到安全使用的三步策略-CSDN博客</title>
-  </bookmark>
-  <bookmark href="https://docs.github.com/zh/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic" id="7">
-    <title>管理个人访问令牌 - GitHub 文档</title>
-  </bookmark>
-</folder>
-</xbel>
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE><!--- highestId :15: for Floccus bookmark sync browser extension -->
+<DL><p>
+<DT><H3 ID="9">Window 0</H3>
+<DL><p>
+  <DT><A HREF="edge://newtab/" TAGS="" ID="10">新建标签页</A>
+  <DT><A HREF="https://github.com/settings/tokens" TAGS="" ID="11">Personal Access Tokens (Classic)</A>
+  <DT><A HREF="https://cn.bing.com/search?pglt=929&#38;q=githubtoken&#38;cvid=7751bbb740fd44e2ad8ebbfa19342fba&#38;gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyNDg5ajBqMagCCLACAQ&#38;FORM=ANNTA1&#38;PC=U531" TAGS="" ID="12">githubtoken - 搜索</A>
+  <DT><A HREF="https://zhuanlan.zhihu.com/p/501872439" TAGS="" ID="13">github访问令牌token的创建方法 - 知乎</A>
+  <DT><A HREF="https://blog.csdn.net/gitblog_00712/article/details/156751915" TAGS="" ID="14">GitHub Token配置完全指南：从获取到安全使用的三步策略-CSDN博客</A>
+  <DT><A HREF="https://docs.github.com/zh/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic" TAGS="" ID="15">管理个人访问令牌 - GitHub 文档</A>
+</DL><p>
+</DL><p>
+</html>
