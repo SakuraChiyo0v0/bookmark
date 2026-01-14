@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+<!--- highestId :8: for Floccus bookmark sync browser extension -->
+
+<folder id="1">
+  <title>Window 0</title>
+  <bookmark href="edge://newtab/" id="2">
+    <title>新建标签页</title>
+  </bookmark>
+  <bookmark href="https://github.com/settings/tokens" id="3">
+    <title>Personal Access Tokens (Classic)</title>
+  </bookmark>
+  <bookmark href="https://cn.bing.com/search?pglt=929&amp;q=githubtoken&amp;cvid=7751bbb740fd44e2ad8ebbfa19342fba&amp;gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyNDg5ajBqMagCCLACAQ&amp;FORM=ANNTA1&amp;PC=U531" id="4">
+    <title>githubtoken - 搜索</title>
+  </bookmark>
+  <bookmark href="https://zhuanlan.zhihu.com/p/501872439" id="5">
+    <title>github访问令牌token的创建方法 - 知乎</title>
+  </bookmark>
+  <bookmark href="https://blog.csdn.net/gitblog_00712/article/details/156751915" id="6">
+    <title>GitHub Token配置完全指南：从获取到安全使用的三步策略-CSDN博客</title>
+  </bookmark>
+  <bookmark href="https://docs.github.com/zh/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token-classic" id="7">
+    <title>管理个人访问令牌 - GitHub 文档</title>
+  </bookmark>
+  <bookmark href="edge://favorites/?id=1" id="8">
+    <title>收藏夹</title>
+  </bookmark>
+</folder>
+</xbel>
