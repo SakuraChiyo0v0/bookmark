@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :250: for Floccus bookmark sync browser extension -->
+<!--- highestId :252: for Floccus bookmark sync browser extension -->
 
 <folder id="3">
   <title>大模型平台</title>
@@ -136,14 +136,14 @@
     <bookmark href="http://staging.review.inf.miui.com/audit/#/audit/auditFirst?page=1&amp;limit=20&amp;queueType=0" id="117">
       <title>内容审核平台-测试环境</title>
     </bookmark>
-    <bookmark href="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&amp;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="118">
-      <title>Elastic-测试环境</title>
-    </bookmark>
     <bookmark href="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&amp;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="119">
       <title>Elastic-正式环境</title>
     </bookmark>
     <bookmark href="https://falcon.mioffice.cn/grafana/d/H20vV6XNk/zhu-gan-he-xin-zhi-biao?orgId=1&amp;teamId=31754&amp;treeId=2&amp;from=now-6h&amp;to=now&amp;refresh=5s" id="120">
       <title>主干核心指标 - Grafana</title>
+    </bookmark>
+    <bookmark href="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&amp;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="118">
+      <title>Elastic-测试环境</title>
     </bookmark>
   </folder>
   <bookmark href="https://pkgs.d.xiaomi.net/ui/packages#/home" id="26">
@@ -266,6 +266,12 @@
   <folder id="249">
     <title>MyProject</title>
     <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="250">
+      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
+    </bookmark>
+  </folder>
+  <folder id="251">
+    <title>MyProject</title>
+    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="252">
       <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
     </bookmark>
   </folder>
@@ -648,9 +654,6 @@
       <bookmark href="https://bestgore.fun/videos/browse?s=1" id="236">
         <title>近期新增 - BestGore.Fun - Because nothing says &apos;fun&apos; like bestgore!</title>
       </bookmark>
-      <bookmark href="https://crazyshit.com/categories/" id="237">
-        <title>Crazy Shit</title>
-      </bookmark>
       <bookmark href="https://46glsxxh63.gls2026.com/page/2" id="238">
         <title>瓜老师の笔记 - @吃瓜网、看大瓜排行、黑料网！</title>
       </bookmark>
@@ -683,6 +686,9 @@
       </bookmark>
       <bookmark href="https://www.rainlain.com/index.php/2024/09/09/2435/" id="248">
         <title>私人推荐：亲吻花瓣（23部汉化合集） – 梦雨玲音</title>
+      </bookmark>
+      <bookmark href="https://crazyshit.com/categories/" id="237">
+        <title>Crazy Shit</title>
       </bookmark>
     </folder>
     <bookmark href="https://twitter.com/" id="228">
