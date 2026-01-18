@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :253: for Floccus bookmark sync browser extension -->
+<!--- highestId :257: for Floccus bookmark sync browser extension -->
 
 <folder id="3">
   <title>大模型平台</title>
@@ -34,6 +34,12 @@
   </folder>
   <folder id="16">
     <title>Xiaomi</title>
+    <bookmark href="https://platform.xiaomimimo.com/#/docs/quick-start/first-api-call" id="254">
+      <title>Xiaomi MiMo 开放平台</title>
+    </bookmark>
+    <bookmark href="https://platform.xiaomimimo.com/#/console/api-keys" id="255">
+      <title>Xiaomi MiMo 开放平台</title>
+    </bookmark>
   </folder>
   <folder id="17">
     <title>智谱</title>
@@ -418,6 +424,12 @@
     <folder id="161">
       <title>视频</title>
     </folder>
+    <bookmark href="https://www.paper2gal.top/" id="256">
+      <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
+    </bookmark>
+    <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="257">
+      <title>PerfectPixel Processor</title>
+    </bookmark>
   </folder>
   <folder id="48">
     <title>通讯</title>
