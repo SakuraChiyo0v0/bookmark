@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :257: for Floccus bookmark sync browser extension -->
+<!--- highestId :258: for Floccus bookmark sync browser extension -->
 
 <folder id="3">
   <title>大模型平台</title>
@@ -275,12 +275,6 @@
       <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
     </bookmark>
   </folder>
-  <folder id="251">
-    <title>MyProject</title>
-    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="252">
-      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
-    </bookmark>
-  </folder>
   <bookmark href="https://github.com/linshenkx/prompt-optimizer" id="40">
     <title>linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</title>
   </bookmark>
@@ -289,6 +283,9 @@
   </bookmark>
   <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" id="42">
     <title>spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</title>
+  </bookmark>
+  <bookmark href="https://github.com/theamusing/perfectPixel" id="258">
+    <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
   </bookmark>
 </folder>
 <folder id="8">
