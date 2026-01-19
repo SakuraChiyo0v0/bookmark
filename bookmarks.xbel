@@ -459,6 +459,72 @@
     <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
   </bookmark>
 </folder>
+<folder id="57">
+  <title>工具</title>
+  <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="163">
+    <title>转换 人民币 为 俄罗斯卢布 | CNY 为 RUB 汇率转换工具</title>
+  </bookmark>
+  <folder id="164">
+    <title>格式转换</title>
+    <bookmark href="https://www.ncm2mp3.com/" id="201">
+      <title>网易云NCM转MP3 - NCM to MP3 - NCM文件批量转换为MP3格式</title>
+    </bookmark>
+    <bookmark href="https://cdkm.com/cn/mp3-to-ogg" id="202">
+      <title>MP3转OGG - 免费在线将MP3文件转换成OGG</title>
+    </bookmark>
+    <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E5%8C%85?variant=zh-cn" id="203">
+      <title>教程:制作资源包 - 中文 Minecraft Wiki</title>
+    </bookmark>
+    <bookmark href="https://convertfree.com/cn/converter/audio/ogg" id="204">
+      <title>OGG 转换工具。 - ConvertFree</title>
+    </bookmark>
+    <bookmark href="https://smallpdf.com/cn/edit-pdf#r=result&amp;t=5ffb0acd4fd8ae4d46e43d69a33104a7&amp;i=annotate" id="205">
+      <title>编辑PDF —— 可在你的浏览器直接使用的免费PDF编辑器</title>
+    </bookmark>
+  </folder>
+  <folder id="165">
+    <title>站长工具</title>
+    <folder id="206">
+      <title>素材</title>
+    </folder>
+  </folder>
+  <folder id="166">
+    <title>游戏</title>
+    <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="207">
+      <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
+    </bookmark>
+    <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="208">
+      <title>交易 - 中文 Minecraft Wiki</title>
+    </bookmark>
+    <bookmark href="https://mc.appfeng.com/" id="209">
+      <title>鸣潮助手</title>
+    </bookmark>
+    <bookmark href="https://wuwatracker.com/zh-CN" id="210">
+      <title>WuWa Tracker</title>
+    </bookmark>
+    <bookmark href="https://www.limestart.cn/" id="211">
+      <title>青柠起始页</title>
+    </bookmark>
+    <bookmark href="https://gamebanana.com/mods/537551" id="212">
+      <title>[SENSITIVE CONTENT] zhezhi Poseidon swimwear 1.0 fix折枝波塞冬泳装 1.0修复 [Wuthering Waves] [Mods]</title>
+    </bookmark>
+    <bookmark href="https://www.huihui.top/" id="213">
+      <title>Hui站（点击左侧切换游戏）</title>
+    </bookmark>
+    <bookmark href="https://dsp-calc.pro/" id="214">
+      <title>戴森球计划量化计算器</title>
+    </bookmark>
+  </folder>
+  <folder id="167">
+    <title>素材</title>
+    <bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="215">
+      <title>免费素材图片</title>
+    </bookmark>
+    <bookmark href="https://unsplash.com/" id="216">
+      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+    </bookmark>
+  </folder>
+</folder>
 <folder id="9">
   <title>OCR&amp;端侧</title>
   <bookmark href="https://github.com/deepseek-ai/DeepSeek-OCR" id="49">
@@ -578,72 +644,6 @@
   <bookmark href="https://mi.feishu.cn/wiki/LYmfw6SrAiSOjfkVFqbcfsAKnkB" id="94">
     <title>Docs</title>
   </bookmark>
-</folder>
-<folder id="57">
-  <title>工具</title>
-  <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="163">
-    <title>转换 人民币 为 俄罗斯卢布 | CNY 为 RUB 汇率转换工具</title>
-  </bookmark>
-  <folder id="164">
-    <title>格式转换</title>
-    <bookmark href="https://www.ncm2mp3.com/" id="201">
-      <title>网易云NCM转MP3 - NCM to MP3 - NCM文件批量转换为MP3格式</title>
-    </bookmark>
-    <bookmark href="https://cdkm.com/cn/mp3-to-ogg" id="202">
-      <title>MP3转OGG - 免费在线将MP3文件转换成OGG</title>
-    </bookmark>
-    <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E5%88%B6%E4%BD%9C%E8%B5%84%E6%BA%90%E5%8C%85?variant=zh-cn" id="203">
-      <title>教程:制作资源包 - 中文 Minecraft Wiki</title>
-    </bookmark>
-    <bookmark href="https://convertfree.com/cn/converter/audio/ogg" id="204">
-      <title>OGG 转换工具。 - ConvertFree</title>
-    </bookmark>
-    <bookmark href="https://smallpdf.com/cn/edit-pdf#r=result&amp;t=5ffb0acd4fd8ae4d46e43d69a33104a7&amp;i=annotate" id="205">
-      <title>编辑PDF —— 可在你的浏览器直接使用的免费PDF编辑器</title>
-    </bookmark>
-  </folder>
-  <folder id="165">
-    <title>站长工具</title>
-    <folder id="206">
-      <title>素材</title>
-    </folder>
-  </folder>
-  <folder id="166">
-    <title>游戏</title>
-    <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="207">
-      <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
-    </bookmark>
-    <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="208">
-      <title>交易 - 中文 Minecraft Wiki</title>
-    </bookmark>
-    <bookmark href="https://mc.appfeng.com/" id="209">
-      <title>鸣潮助手</title>
-    </bookmark>
-    <bookmark href="https://wuwatracker.com/zh-CN" id="210">
-      <title>WuWa Tracker</title>
-    </bookmark>
-    <bookmark href="https://www.limestart.cn/" id="211">
-      <title>青柠起始页</title>
-    </bookmark>
-    <bookmark href="https://gamebanana.com/mods/537551" id="212">
-      <title>[SENSITIVE CONTENT] zhezhi Poseidon swimwear 1.0 fix折枝波塞冬泳装 1.0修复 [Wuthering Waves] [Mods]</title>
-    </bookmark>
-    <bookmark href="https://www.huihui.top/" id="213">
-      <title>Hui站（点击左侧切换游戏）</title>
-    </bookmark>
-    <bookmark href="https://dsp-calc.pro/" id="214">
-      <title>戴森球计划量化计算器</title>
-    </bookmark>
-  </folder>
-  <folder id="167">
-    <title>素材</title>
-    <bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="215">
-      <title>免费素材图片</title>
-    </bookmark>
-    <bookmark href="https://unsplash.com/" id="216">
-      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
-    </bookmark>
-  </folder>
 </folder>
 <folder id="61">
   <title>bac</title>
