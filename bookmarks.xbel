@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :260: for Floccus bookmark sync browser extension -->
+<!--- highestId :269: for Floccus bookmark sync browser extension -->
 
 <folder id="3">
   <title>大模型平台</title>
@@ -37,7 +37,13 @@
     <bookmark href="https://platform.xiaomimimo.com/#/docs/quick-start/first-api-call" id="254">
       <title>Xiaomi MiMo 开放平台</title>
     </bookmark>
+    <bookmark href="https://platform.xiaomimimo.com/#/docs/quick-start/first-api-call" id="261">
+      <title>Xiaomi MiMo 开放平台</title>
+    </bookmark>
     <bookmark href="https://platform.xiaomimimo.com/#/console/api-keys" id="255">
+      <title>Xiaomi MiMo 开放平台</title>
+    </bookmark>
+    <bookmark href="https://platform.xiaomimimo.com/#/console/api-keys" id="262">
       <title>Xiaomi MiMo 开放平台</title>
     </bookmark>
   </folder>
@@ -58,6 +64,12 @@
   </bookmark>
   <bookmark href="http://astr.amechan.cloud/#/dashboard/default" id="20">
     <title>AstrBot - 仪表盘</title>
+  </bookmark>
+  <bookmark href="http://st.amechan.cloud/" id="263">
+    <title>Forbidden</title>
+  </bookmark>
+  <bookmark href="http://bmm.amechan.cloud/" id="264">
+    <title>魔力赏市场</title>
   </bookmark>
 </folder>
 <folder id="5">
@@ -287,12 +299,9 @@
   <bookmark href="https://github.com/theamusing/perfectPixel" id="258">
     <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
   </bookmark>
-  <folder id="259">
-    <title>MyProject</title>
-    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="260">
-      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
-    </bookmark>
-  </folder>
+  <bookmark href="https://github.com/theamusing/perfectPixel" id="265">
+    <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
+  </bookmark>
 </folder>
 <folder id="8">
   <title>平台</title>
@@ -430,6 +439,12 @@
     <bookmark href="https://www.paper2gal.top/" id="256">
       <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
     </bookmark>
+    <bookmark href="https://www.paper2gal.top/" id="266">
+      <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
+    </bookmark>
+    <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="267">
+      <title>PerfectPixel Processor</title>
+    </bookmark>
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="257">
       <title>PerfectPixel Processor</title>
     </bookmark>
@@ -439,7 +454,13 @@
     <bookmark href="https://mail.xiaomi.com/owa/#path=/mail/inbox" id="162">
       <title>邮件 - mafuyu@xiaomi.com</title>
     </bookmark>
+    <bookmark href="https://wx.mail.qq.com/home/index?sid=zZZ3YYyJa24ueU1YAMRFSgAA#/list/1/1" id="268">
+      <title>QQ邮箱</title>
+    </bookmark>
   </folder>
+  <bookmark href="https://zh.z-library.sk/" id="269">
+    <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+  </bookmark>
 </folder>
 <folder id="9">
   <title>OCR&amp;端侧</title>
