@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :258: for Floccus bookmark sync browser extension -->
+<!--- highestId :260: for Floccus bookmark sync browser extension -->
 
 <folder id="3">
   <title>大模型平台</title>
@@ -287,6 +287,12 @@
   <bookmark href="https://github.com/theamusing/perfectPixel" id="258">
     <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
   </bookmark>
+  <folder id="259">
+    <title>MyProject</title>
+    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="260">
+      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="8">
   <title>平台</title>
