@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :262: for Floccus bookmark sync browser extension -->
+<!--- highestId :263: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -444,6 +444,9 @@
     </bookmark>
     <bookmark href="https://valuecell.ai/zh/chat" id="262">
       <title>ValueCell AI 投资 | 从洞察到执行，全盘掌控</title>
+    </bookmark>
+    <bookmark href="https://ant.design/components/overview-cn" id="263">
+      <title>组件总览 - Ant Design</title>
     </bookmark>
   </folder>
   <folder id="51">
