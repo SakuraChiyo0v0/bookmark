@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :260: for Floccus bookmark sync browser extension -->
+<!--- highestId :261: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -326,6 +326,9 @@
       </bookmark>
       <bookmark href="https://open.feishu.cn/?lang=zh-CN" id="197">
         <title>飞书开放平台</title>
+      </bookmark>
+      <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh#caf01f12" id="261">
+        <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
       </bookmark>
     </folder>
     <folder id="156">
