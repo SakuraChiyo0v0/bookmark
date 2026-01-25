@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :263: for Floccus bookmark sync browser extension -->
+<!--- highestId :264: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -202,9 +202,6 @@
     <bookmark href="https://cn.vuejs.org/" id="133">
       <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
     </bookmark>
-    <bookmark href="https://ant.design/components/overview-cn" id="263">
-      <title>组件总览 - Ant Design</title>
-    </bookmark>
   </folder>
   <folder id="35">
     <title>后端</title>
@@ -330,9 +327,6 @@
       <bookmark href="https://open.feishu.cn/?lang=zh-CN" id="197">
         <title>飞书开放平台</title>
       </bookmark>
-      <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh#caf01f12" id="261">
-        <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
-      </bookmark>
     </folder>
     <folder id="156">
       <title>阿里云</title>
@@ -445,9 +439,6 @@
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="173">
       <title>PerfectPixel Processor</title>
     </bookmark>
-    <bookmark href="https://valuecell.ai/zh/chat" id="262">
-      <title>ValueCell AI 投资 | 从洞察到执行，全盘掌控</title>
-    </bookmark>
   </folder>
   <folder id="51">
     <title>通讯</title>
@@ -516,6 +507,9 @@
     </bookmark>
     <bookmark href="https://dsp-calc.pro/" id="189">
       <title>戴森球计划量化计算器</title>
+    </bookmark>
+    <bookmark href="https://factory.ef.yituliu.cn/aef/list?o=proc_battery_3*6&amp;v=11" id="264">
+      <title>高容谷地电池 | 终末地量化计算器</title>
     </bookmark>
   </folder>
   <folder id="57">
