@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :264: for Floccus bookmark sync browser extension -->
+<!--- highestId :265: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -366,6 +366,9 @@
     </bookmark>
     <bookmark href="https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5" id="162">
       <title>GTNH中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司</title>
+    </bookmark>
+    <bookmark href="https://factory.ef.yituliu.cn/aef/list?o=proc_battery_3*6&amp;v=11" id="265">
+      <title>高容谷地电池 | 终末地量化计算器</title>
     </bookmark>
   </folder>
   <folder id="49">
