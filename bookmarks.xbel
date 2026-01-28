@@ -236,6 +236,18 @@
       <title>QQ邮箱</title>
     </bookmark>
   </folder>
+  <folder id="272">
+    <title>资源</title>
+    <bookmark href="https://vcsoso.com/" id="273">
+      <title>维C搜搜-好用的夸克资源搜索站 -</title>
+    </bookmark>
+    <bookmark href="https://pan.funletu.com/" id="274">
+      <title>首页 | 趣盘搜-专注夸克资源搜索</title>
+    </bookmark>
+    <bookmark href="https://zh.z-library.sk/" id="52">
+      <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="3">
   <title>小米平台</title>
@@ -488,18 +500,6 @@
   <bookmark href="https://www.paddleocr.ai/latest/version3.x/algorithm/PaddleOCR-VL/PaddleOCR-VL.html#_17" id="64">
     <title>PaddleOCR-VL简介 - PaddleOCR 文档</title>
   </bookmark>
-  <folder id="272">
-    <title>资源</title>
-    <bookmark href="https://vcsoso.com/" id="273">
-      <title>维C搜搜-好用的夸克资源搜索站 -</title>
-    </bookmark>
-    <bookmark href="https://pan.funletu.com/" id="274">
-      <title>首页 | 趣盘搜-专注夸克资源搜索</title>
-    </bookmark>
-    <bookmark href="https://zh.z-library.sk/" id="52">
-      <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
-    </bookmark>
-  </folder>
   <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="65">
     <title>CloudML</title>
   </bookmark>
