@@ -186,84 +186,6 @@
     <title>Shepher</title>
   </bookmark>
 </folder>
-<folder id="4">
-  <title>官方文档</title>
-  <folder id="34">
-    <title>前端</title>
-    <bookmark href="https://element-plus.org/zh-CN/guide/design.html" id="130">
-      <title>设计 | Element Plus</title>
-    </bookmark>
-    <bookmark href="https://pinia.vuejs.org/zh/introduction.html" id="131">
-      <title>Pinia</title>
-    </bookmark>
-    <bookmark href="https://www.iconfont.cn/" id="132">
-      <title>iconfont-阿里巴巴矢量图标库</title>
-    </bookmark>
-    <bookmark href="https://cn.vuejs.org/" id="133">
-      <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
-    </bookmark>
-  </folder>
-  <folder id="35">
-    <title>后端</title>
-    <bookmark href="https://spring.io/projects/spring-ai" id="134">
-      <title>Spring AI</title>
-    </bookmark>
-    <bookmark href="https://baomidou.com/" id="135">
-      <title>MyBatis-Plus 🚀 为简化开发而生</title>
-    </bookmark>
-    <bookmark href="https://mybatis.org/mybatis-3/zh_CN/getting-started.html" id="136">
-      <title>MyBatis 3 | 入门 – mybatis</title>
-    </bookmark>
-    <bookmark href="https://java2ai.com/docs/dev/get-started/" id="137">
-      <title>快速开始-阿里云Spring AI Alibaba官网官网</title>
-    </bookmark>
-    <bookmark href="https://docs.langchain4j.dev/intro" id="138">
-      <title>Introduction | LangChain4j</title>
-    </bookmark>
-    <bookmark href="https://www.hutool.cn/docs/#/" id="139">
-      <title>Hutool</title>
-    </bookmark>
-    <bookmark href="https://www.rabbitmq.com/docs" id="140">
-      <title>RabbitMQ</title>
-    </bookmark>
-    <bookmark href="https://www.thymeleaf.org/doc/tutorials/3.1/thymeleafspring.html" id="141">
-      <title>教程：Thymeleaf + Spring</title>
-    </bookmark>
-  </folder>
-  <folder id="36">
-    <title>小米平台接口</title>
-    <bookmark href="http://doc.t.pt.miui.com/middle_doc/audit/%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B.html" id="142">
-      <title>审核平台接入接口</title>
-    </bookmark>
-    <bookmark href="https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1559" id="143">
-      <title>服务器API地址以及参数 | 小米澎湃OS开发者平台</title>
-    </bookmark>
-  </folder>
-  <folder id="37">
-    <title>Agent</title>
-    <bookmark href="https://docs.n8n.io/" id="144">
-      <title>Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs</title>
-    </bookmark>
-    <bookmark href="https://docs.dify.ai/zh-hans/introduction" id="145">
-      <title>产品简介 - Dify Docs</title>
-    </bookmark>
-    <bookmark href="https://opencode.ai/docs" id="146">
-      <title>Intro | OpenCode</title>
-    </bookmark>
-    <bookmark href="https://a2ui.org/" id="147">
-      <title>A2UI</title>
-    </bookmark>
-  </folder>
-  <folder id="38">
-    <title>工具</title>
-    <bookmark href="https://www.runoob.com/linux/linux-tutorial.html" id="148">
-      <title>Linux 教程 | 菜鸟教程</title>
-    </bookmark>
-    <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="149">
-      <title>Xshell | NetSarang Website</title>
-    </bookmark>
-  </folder>
-</folder>
 <folder id="6">
   <title>平台</title>
   <folder id="46">
@@ -429,6 +351,84 @@
     </bookmark>
   </folder>
 </folder>
+<folder id="4">
+  <title>官方文档</title>
+  <folder id="34">
+    <title>前端</title>
+    <bookmark href="https://element-plus.org/zh-CN/guide/design.html" id="130">
+      <title>设计 | Element Plus</title>
+    </bookmark>
+    <bookmark href="https://pinia.vuejs.org/zh/introduction.html" id="131">
+      <title>Pinia</title>
+    </bookmark>
+    <bookmark href="https://www.iconfont.cn/" id="132">
+      <title>iconfont-阿里巴巴矢量图标库</title>
+    </bookmark>
+    <bookmark href="https://cn.vuejs.org/" id="133">
+      <title>Vue.js - 渐进式 JavaScript 框架 | Vue.js</title>
+    </bookmark>
+  </folder>
+  <folder id="35">
+    <title>后端</title>
+    <bookmark href="https://spring.io/projects/spring-ai" id="134">
+      <title>Spring AI</title>
+    </bookmark>
+    <bookmark href="https://baomidou.com/" id="135">
+      <title>MyBatis-Plus 🚀 为简化开发而生</title>
+    </bookmark>
+    <bookmark href="https://mybatis.org/mybatis-3/zh_CN/getting-started.html" id="136">
+      <title>MyBatis 3 | 入门 – mybatis</title>
+    </bookmark>
+    <bookmark href="https://java2ai.com/docs/dev/get-started/" id="137">
+      <title>快速开始-阿里云Spring AI Alibaba官网官网</title>
+    </bookmark>
+    <bookmark href="https://docs.langchain4j.dev/intro" id="138">
+      <title>Introduction | LangChain4j</title>
+    </bookmark>
+    <bookmark href="https://www.hutool.cn/docs/#/" id="139">
+      <title>Hutool</title>
+    </bookmark>
+    <bookmark href="https://www.rabbitmq.com/docs" id="140">
+      <title>RabbitMQ</title>
+    </bookmark>
+    <bookmark href="https://www.thymeleaf.org/doc/tutorials/3.1/thymeleafspring.html" id="141">
+      <title>教程：Thymeleaf + Spring</title>
+    </bookmark>
+  </folder>
+  <folder id="36">
+    <title>小米平台接口</title>
+    <bookmark href="http://doc.t.pt.miui.com/middle_doc/audit/%E6%8E%A5%E5%85%A5%E6%B5%81%E7%A8%8B.html" id="142">
+      <title>审核平台接入接口</title>
+    </bookmark>
+    <bookmark href="https://dev.mi.com/xiaomihyperos/documentation/detail?pId=1559" id="143">
+      <title>服务器API地址以及参数 | 小米澎湃OS开发者平台</title>
+    </bookmark>
+  </folder>
+  <folder id="37">
+    <title>Agent</title>
+    <bookmark href="https://docs.n8n.io/" id="144">
+      <title>Explore n8n Docs: Your Resource for Workflow Automation and Integrations | n8n Docs</title>
+    </bookmark>
+    <bookmark href="https://docs.dify.ai/zh-hans/introduction" id="145">
+      <title>产品简介 - Dify Docs</title>
+    </bookmark>
+    <bookmark href="https://opencode.ai/docs" id="146">
+      <title>Intro | OpenCode</title>
+    </bookmark>
+    <bookmark href="https://a2ui.org/" id="147">
+      <title>A2UI</title>
+    </bookmark>
+  </folder>
+  <folder id="38">
+    <title>工具</title>
+    <bookmark href="https://www.runoob.com/linux/linux-tutorial.html" id="148">
+      <title>Linux 教程 | 菜鸟教程</title>
+    </bookmark>
+    <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="149">
+      <title>Xshell | NetSarang Website</title>
+    </bookmark>
+  </folder>
+</folder>
 <folder id="5">
   <title>GitHub</title>
   <bookmark href="https://github.com/" id="39">
@@ -488,21 +488,21 @@
   <bookmark href="https://www.paddleocr.ai/latest/version3.x/algorithm/PaddleOCR-VL/PaddleOCR-VL.html#_17" id="64">
     <title>PaddleOCR-VL简介 - PaddleOCR 文档</title>
   </bookmark>
-  <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="65">
-    <title>CloudML</title>
-  </bookmark>
   <folder id="272">
     <title>资源</title>
     <bookmark href="https://vcsoso.com/" id="273">
       <title>维C搜搜-好用的夸克资源搜索站 -</title>
     </bookmark>
-    <bookmark href="https://zh.z-library.sk/" id="52">
-      <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
-    </bookmark>
     <bookmark href="https://pan.funletu.com/" id="274">
       <title>首页 | 趣盘搜-专注夸克资源搜索</title>
     </bookmark>
+    <bookmark href="https://zh.z-library.sk/" id="52">
+      <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+    </bookmark>
   </folder>
+  <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="65">
+    <title>CloudML</title>
+  </bookmark>
 </folder>
 <folder id="7">
   <title>工具</title>
