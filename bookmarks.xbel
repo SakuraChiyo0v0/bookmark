@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :265: for Floccus bookmark sync browser extension -->
+<!--- highestId :274: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -264,42 +264,6 @@
     </bookmark>
   </folder>
 </folder>
-<folder id="5">
-  <title>GitHub</title>
-  <bookmark href="https://github.com/" id="39">
-    <title>GitHub</title>
-  </bookmark>
-  <folder id="40">
-    <title>AI</title>
-    <bookmark href="https://github.com/langchain4j/langchain4j/" id="150">
-      <title>langchain4j/langchain4j: Java version of LangChain</title>
-    </bookmark>
-    <bookmark href="https://github.com/zai-org/Open-AutoGLM/tree/main" id="151">
-      <title>zai-org/Open-AutoGLM: An Open Phone Agent Model &amp; Framework. Unlocking the AI Phone for Everyone</title>
-    </bookmark>
-    <bookmark href="https://github.com/langgenius/dify/blob/main/README_CN.md" id="152">
-      <title>dify/README_CN.md at main · langgenius/dify</title>
-    </bookmark>
-  </folder>
-  <folder id="41">
-    <title>MyProject</title>
-    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="153">
-      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://github.com/linshenkx/prompt-optimizer" id="42">
-    <title>linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</title>
-  </bookmark>
-  <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/blob/main/docker-compose/zipkin/docker-compose.yml?spm=4347728f.53938564.0.0.13232b0e4QAuNQ&amp;file=docker-compose.yml" id="43">
-    <title>zipkin</title>
-  </bookmark>
-  <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" id="44">
-    <title>spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</title>
-  </bookmark>
-  <bookmark href="https://github.com/theamusing/perfectPixel" id="45">
-    <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
-  </bookmark>
-</folder>
 <folder id="6">
   <title>平台</title>
   <folder id="46">
@@ -326,6 +290,15 @@
       </bookmark>
       <bookmark href="https://open.feishu.cn/?lang=zh-CN" id="197">
         <title>飞书开放平台</title>
+      </bookmark>
+      <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh#e7b4c498" id="266">
+        <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
+      </bookmark>
+      <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh" id="267">
+        <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
+      </bookmark>
+      <bookmark href="https://agentscope.io/" id="268">
+        <title>AgentScope</title>
       </bookmark>
     </folder>
     <folder id="156">
@@ -366,9 +339,6 @@
     </bookmark>
     <bookmark href="https://gtnh.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5" id="162">
       <title>GTNH中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司</title>
-    </bookmark>
-    <bookmark href="https://factory.ef.yituliu.cn/aef/list?o=proc_battery_3*6&amp;v=11" id="265">
-      <title>高容谷地电池 | 终末地量化计算器</title>
     </bookmark>
   </folder>
   <folder id="49">
@@ -439,7 +409,13 @@
     <bookmark href="https://www.paper2gal.top/" id="172">
       <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
     </bookmark>
+    <bookmark href="https://www.paper2gal.top/" id="269">
+      <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
+    </bookmark>
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="173">
+      <title>PerfectPixel Processor</title>
+    </bookmark>
+    <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="270">
       <title>PerfectPixel Processor</title>
     </bookmark>
   </folder>
@@ -452,9 +428,81 @@
       <title>QQ邮箱</title>
     </bookmark>
   </folder>
-  <bookmark href="https://zh.z-library.sk/" id="52">
-    <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+</folder>
+<folder id="5">
+  <title>GitHub</title>
+  <bookmark href="https://github.com/" id="39">
+    <title>GitHub</title>
   </bookmark>
+  <folder id="40">
+    <title>AI</title>
+    <bookmark href="https://github.com/langchain4j/langchain4j/" id="150">
+      <title>langchain4j/langchain4j: Java version of LangChain</title>
+    </bookmark>
+    <bookmark href="https://github.com/zai-org/Open-AutoGLM/tree/main" id="151">
+      <title>zai-org/Open-AutoGLM: An Open Phone Agent Model &amp; Framework. Unlocking the AI Phone for Everyone</title>
+    </bookmark>
+    <bookmark href="https://github.com/langgenius/dify/blob/main/README_CN.md" id="152">
+      <title>dify/README_CN.md at main · langgenius/dify</title>
+    </bookmark>
+  </folder>
+  <folder id="41">
+    <title>MyProject</title>
+    <bookmark href="https://github.com/SakuraChiyo0v0/ProjectManager" id="153">
+      <title>SakuraChiyo0v0/ProjectManager: Initial commit v0.1.0</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://github.com/linshenkx/prompt-optimizer" id="42">
+    <title>linshenkx/prompt-optimizer: 一款提示词优化器，助力于编写高质量的提示词</title>
+  </bookmark>
+  <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/blob/main/docker-compose/zipkin/docker-compose.yml?spm=4347728f.53938564.0.0.13232b0e4QAuNQ&amp;file=docker-compose.yml" id="43">
+    <title>zipkin</title>
+  </bookmark>
+  <bookmark href="https://github.com/springaialibaba/spring-ai-alibaba-examples/tree/main/spring-ai-alibaba-playground?spm=4347728f.6bbdfafa.0.0.69ee175cSqP3Va" id="44">
+    <title>spring-ai-alibaba-examples/spring-ai-alibaba-playground at main · springaialibaba/spring-ai-alibaba-examples</title>
+  </bookmark>
+  <bookmark href="https://github.com/theamusing/perfectPixel" id="45">
+    <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
+  </bookmark>
+</folder>
+<folder id="8">
+  <title>OCR&amp;端侧</title>
+  <bookmark href="https://github.com/deepseek-ai/DeepSeek-OCR" id="58">
+    <title>deepseek-ai/DeepSeek-OCR: Contexts Optical Compression</title>
+  </bookmark>
+  <bookmark href="https://www.paddleocr.ai/latest/version3.x/pipeline_usage/PaddleOCR-VL.html" id="59">
+    <title>使用教程 - PaddleOCR 文档</title>
+  </bookmark>
+  <bookmark href="https://mi.feishu.cn/wiki/TVdJwZLUfi0ZhbkuXFhclrklnVh" id="60">
+    <title>‌​⁢⁣⁣‬‌‬⁤⁢⁤‍​⁣​⁢‍​​‌⁤‬​​‍​⁣‍⁤⁤⁤﻿﻿‌⁡﻿⁢⁤​⁤⁡﻿⁣​⁣⁤‍﻿​‬端侧图片识别能力调研 - 小米办公Pro云文档</title>
+  </bookmark>
+  <bookmark href="https://mi.feishu.cn/wiki/S6muwNXiKiI5EakWUPBcBcLYnhd" id="61">
+    <title>‌⁡⁢⁢‍​​⁡⁣⁤​‍‬﻿‬​⁣‬⁣‍⁢﻿‍⁤⁢⁢​⁤‍​﻿⁤‬⁡⁡⁣⁢⁣​﻿‬‬‌​​‬⁡​PaddleOCR &amp; DeepSeek-OCR 调研 - 小米办公Pro云文档</title>
+  </bookmark>
+  <bookmark href="https://www.paddlepaddle.org.cn/tutorials/projectdetail/5604804" id="62">
+    <title>飞桨PaddlePaddle-源于产业实践的开源深度学习平台</title>
+  </bookmark>
+  <bookmark href="https://mi.feishu.cn/wiki/LoBOw9SpAiDiOjkbRGacEmu9nlh" id="63">
+    <title>‍​⁣‬﻿⁢⁢⁤‌‌​‌‍‍⁤﻿⁤‌​⁣‍⁣⁤‬‍⁢‍​‬⁡﻿​﻿﻿​⁣​⁤‌‍‬​​⁣​​⁣﻿⁡‍CloudML部署Paddle-OCR - 小米办公Pro云文档</title>
+  </bookmark>
+  <bookmark href="https://www.paddleocr.ai/latest/version3.x/algorithm/PaddleOCR-VL/PaddleOCR-VL.html#_17" id="64">
+    <title>PaddleOCR-VL简介 - PaddleOCR 文档</title>
+  </bookmark>
+  <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="65">
+    <title>CloudML</title>
+  </bookmark>
+  <folder id="272">
+    <title>资源</title>
+    <bookmark href="https://vcsoso.com/" id="273">
+      <title>维C搜搜-好用的夸克资源搜索站 -</title>
+    </bookmark>
+    <bookmark href="https://zh.z-library.sk/" id="52">
+      <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+    </bookmark>
+    <bookmark href="https://pan.funletu.com/" id="274">
+      <title>首页 | 趣盘搜-专注夸克资源搜索</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="7">
   <title>工具</title>
@@ -511,9 +559,6 @@
     <bookmark href="https://dsp-calc.pro/" id="189">
       <title>戴森球计划量化计算器</title>
     </bookmark>
-    <bookmark href="https://factory.ef.yituliu.cn/aef/list?o=proc_battery_3*6&amp;v=11" id="264">
-      <title>高容谷地电池 | 终末地量化计算器</title>
-    </bookmark>
   </folder>
   <folder id="57">
     <title>素材</title>
@@ -525,33 +570,6 @@
     </bookmark>
   </folder>
 </folder>
-<folder id="8">
-  <title>OCR&amp;端侧</title>
-  <bookmark href="https://github.com/deepseek-ai/DeepSeek-OCR" id="58">
-    <title>deepseek-ai/DeepSeek-OCR: Contexts Optical Compression</title>
-  </bookmark>
-  <bookmark href="https://www.paddleocr.ai/latest/version3.x/pipeline_usage/PaddleOCR-VL.html" id="59">
-    <title>使用教程 - PaddleOCR 文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/TVdJwZLUfi0ZhbkuXFhclrklnVh" id="60">
-    <title>‌​⁢⁣⁣‬‌‬⁤⁢⁤‍​⁣​⁢‍​​‌⁤‬​​‍​⁣‍⁤⁤⁤﻿﻿‌⁡﻿⁢⁤​⁤⁡﻿⁣​⁣⁤‍﻿​‬端侧图片识别能力调研 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/S6muwNXiKiI5EakWUPBcBcLYnhd" id="61">
-    <title>‌⁡⁢⁢‍​​⁡⁣⁤​‍‬﻿‬​⁣‬⁣‍⁢﻿‍⁤⁢⁢​⁤‍​﻿⁤‬⁡⁡⁣⁢⁣​﻿‬‬‌​​‬⁡​PaddleOCR &amp; DeepSeek-OCR 调研 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://www.paddlepaddle.org.cn/tutorials/projectdetail/5604804" id="62">
-    <title>飞桨PaddlePaddle-源于产业实践的开源深度学习平台</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/LoBOw9SpAiDiOjkbRGacEmu9nlh" id="63">
-    <title>‍​⁣‬﻿⁢⁢⁤‌‌​‌‍‍⁤﻿⁤‌​⁣‍⁣⁤‬‍⁢‍​‬⁡﻿​﻿﻿​⁣​⁤‌‍‬​​⁣​​⁣﻿⁡‍CloudML部署Paddle-OCR - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://www.paddleocr.ai/latest/version3.x/algorithm/PaddleOCR-VL/PaddleOCR-VL.html#_17" id="64">
-    <title>PaddleOCR-VL简介 - PaddleOCR 文档</title>
-  </bookmark>
-  <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="65">
-    <title>CloudML</title>
-  </bookmark>
-</folder>
 <folder id="9">
   <title>mify</title>
   <bookmark href="https://mify.mioffice.cn/app/afb6d133-3beb-4eee-afe8-37bd64ca59a4/workflow" id="66">
@@ -562,9 +580,6 @@
   </bookmark>
   <bookmark href="https://mify.mioffice.cn/app/7600ae69-812a-4c87-8552-6b10ca4e969a/workflow" id="68">
     <title>AI短剧聊天机器人 - Mify</title>
-  </bookmark>
-  <bookmark href="https://mify.mioffice.cn/app/bff00f2a-98f7-48b9-bb30-2ccc45f3f84b/workflow" id="69">
-    <title>AI教育板书指令工作流 - Mify</title>
   </bookmark>
 </folder>
 <folder id="10">
@@ -637,6 +652,9 @@
   </bookmark>
   <bookmark href="https://console.volcengine.com/speech/new/overview?projectName=default" id="90">
     <title>豆包语音</title>
+  </bookmark>
+  <bookmark href="https://mify.mioffice.cn/app/bff00f2a-98f7-48b9-bb30-2ccc45f3f84b/workflow" id="69">
+    <title>AI教育板书指令工作流 - Mify</title>
   </bookmark>
   <bookmark href="https://mi.feishu.cn/wiki/CX3JwUSfSi8Y2hke9dnccbYKnnf" id="91">
     <title>‌‍⁢⁣​﻿⁡‬‌⁣⁣⁤​⁢﻿⁣⁤​​​‬‍⁢​‌⁡⁡​⁣​​‍‬⁢﻿⁣‬​﻿​⁡⁡﻿‬⁢‬‬​‌⁡未命名文档 - 小米办公Pro云文档</title>
@@ -789,4 +807,7 @@
     <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
   </bookmark>
 </folder>
+<bookmark href="https://xiaomi.f.mioffice.cn/docx/doxk4Pq7FfgnnmkPUsomUlxpLKh?from=from_lark_group_search" id="271">
+  <title>Docs</title>
+</bookmark>
 </xbel>
