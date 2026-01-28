@@ -72,120 +72,6 @@
     <title>魔力赏市场</title>
   </bookmark>
 </folder>
-<folder id="3">
-  <title>小米平台</title>
-  <folder id="23">
-    <title>GitLab</title>
-    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-data" id="104">
-      <title>ai-search / ai-search-data · GitLab</title>
-    </bookmark>
-    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-llm-api" id="105">
-      <title>ai-search / ai-search-llm-api · GitLab</title>
-    </bookmark>
-    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-cms-api" id="106">
-      <title>ai-search / ai-search-cms-api · GitLab</title>
-    </bookmark>
-    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-agent-api" id="107">
-      <title>ai-search / ai-search-agent-api · GitLab</title>
-    </bookmark>
-    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-data-api" id="108">
-      <title>ai-search / ai-search-data-api · GitLab</title>
-    </bookmark>
-    <bookmark href="https://git.n.xiaomi.com/global-search/ai-search" id="109">
-      <title>GLOBAL_SEARCH / ai-search · 极狐GitLab</title>
-    </bookmark>
-  </folder>
-  <folder id="24">
-    <title>Matrix</title>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79897?projectId=471181" id="110">
-      <title>MATRIX-小米融合云</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/78790?projectId=471181" id="111">
-      <title>MATRIX-agent-staging</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70582?projectId=481187&amp;tab=instance" id="112">
-      <title>MATRIX-data-staging</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63869?projectId=471181" id="113">
-      <title>MATRIX-llm-api-staging</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/75678?projectId=471181" id="114">
-      <title>MATRIX-cms-staging</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70859?projectId=481187" id="115">
-      <title>MATRIX-data-preview</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/76559?projectId=471181" id="116">
-      <title>MATRIX-cms-preview</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79054?projectId=471181&amp;tab=instance" id="117">
-      <title>MATRIX-agent-preview</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63870?projectId=471181" id="118">
-      <title>MATRIX-llm-preview</title>
-    </bookmark>
-  </folder>
-  <folder id="25">
-    <title>中间件</title>
-    <bookmark href="https://cloud.d.xiaomi.net/redis/cache/resource?projectId=482877" id="119">
-      <title>REDIS-小米融合云</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/keycenter/sid/encry?sid=miui-search&amp;projectId=22856&amp;env=cn" id="120">
-      <title>KEYCENTER-小米融合云</title>
-    </bookmark>
-    <bookmark href="https://cloud.mioffice.cn/fusion-ui/#/product/file-store/buckets" id="121">
-      <title>FDS - ai-search-bucket</title>
-    </bookmark>
-  </folder>
-  <folder id="26">
-    <title>平台服务</title>
-    <bookmark href="http://cloudml.ai.srv/#/overview?cluster=c5&amp;type=cloudml" id="122">
-      <title>CloudML</title>
-    </bookmark>
-    <bookmark href="https://manage.migc.xiaomi.com/#/" id="123">
-      <title>小米游戏乐高平台-正式环境</title>
-    </bookmark>
-    <bookmark href="http://dev.hyfe.game.node.g.mi.com/migc2-lego-system/#/" id="124">
-      <title>小米游戏乐高平台-测试环境</title>
-    </bookmark>
-    <bookmark href="https://content-review.crcp.xiaomi.com/#/401" id="125">
-      <title>内容审核平台-正式环境</title>
-    </bookmark>
-    <bookmark href="http://staging.review.inf.miui.com/audit/#/audit/auditFirst?page=1&amp;limit=20&amp;queueType=0" id="126">
-      <title>内容审核平台-测试环境</title>
-    </bookmark>
-    <bookmark href="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&amp;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="127">
-      <title>Elastic-正式环境</title>
-    </bookmark>
-    <bookmark href="https://falcon.mioffice.cn/grafana/d/H20vV6XNk/zhu-gan-he-xin-zhi-biao?orgId=1&amp;teamId=31754&amp;treeId=2&amp;from=now-6h&amp;to=now&amp;refresh=5s" id="128">
-      <title>主干核心指标 - Grafana</title>
-    </bookmark>
-    <bookmark href="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&amp;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="129">
-      <title>Elastic-测试环境</title>
-    </bookmark>
-  </folder>
-  <bookmark href="https://pkgs.d.xiaomi.net/ui/packages#/home" id="27">
-    <title>Packages - artifactory</title>
-  </bookmark>
-  <bookmark href="https://edu.mioffice.cn/clientcn/exam/18077/questions?title=2025%E4%BA%92%E9%83%A8%E8%B4%A8%E9%87%8F%E8%80%83%E8%AF%95-%E5%86%85%E5%AE%B9%E7%94%9F%E6%80%81%E9%83%A8&amp;flag=test&amp;totaltime=20" id="28">
-    <title>清河大学</title>
-  </bookmark>
-  <bookmark href="https://cloud.mioffice.cn/micr/iam/project/agent-495172/detail?projectId=495172" id="29">
-    <title>MICR-小米融合云</title>
-  </bookmark>
-  <bookmark href="https://michat.ai.xiaomi.com/wk" id="30">
-    <title>Mi Chat</title>
-  </bookmark>
-  <bookmark href="https://falcon.mioffice.cn/#/falcon-new/prometheus-overview" id="31">
-    <title>falcon</title>
-  </bookmark>
-  <bookmark href="https://offer.hr.mioffice.cn/express" id="32">
-    <title>小米入职系统</title>
-  </bookmark>
-  <bookmark href="https://zkview.d.xiaomi.net/clusters/staging/nodes" id="33">
-    <title>Shepher</title>
-  </bookmark>
-</folder>
 <folder id="6">
   <title>平台</title>
   <folder id="46">
@@ -350,6 +236,120 @@
       <title>QQ邮箱</title>
     </bookmark>
   </folder>
+</folder>
+<folder id="3">
+  <title>小米平台</title>
+  <folder id="23">
+    <title>GitLab</title>
+    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-data" id="104">
+      <title>ai-search / ai-search-data · GitLab</title>
+    </bookmark>
+    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-llm-api" id="105">
+      <title>ai-search / ai-search-llm-api · GitLab</title>
+    </bookmark>
+    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-cms-api" id="106">
+      <title>ai-search / ai-search-cms-api · GitLab</title>
+    </bookmark>
+    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-agent-api" id="107">
+      <title>ai-search / ai-search-agent-api · GitLab</title>
+    </bookmark>
+    <bookmark href="https://git.n.xiaomi.com/aisearch/ai-search-data-api" id="108">
+      <title>ai-search / ai-search-data-api · GitLab</title>
+    </bookmark>
+    <bookmark href="https://git.n.xiaomi.com/global-search/ai-search" id="109">
+      <title>GLOBAL_SEARCH / ai-search · 极狐GitLab</title>
+    </bookmark>
+  </folder>
+  <folder id="24">
+    <title>Matrix</title>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79897?projectId=471181" id="110">
+      <title>MATRIX-小米融合云</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/78790?projectId=471181" id="111">
+      <title>MATRIX-agent-staging</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70582?projectId=481187&amp;tab=instance" id="112">
+      <title>MATRIX-data-staging</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63869?projectId=471181" id="113">
+      <title>MATRIX-llm-api-staging</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/75678?projectId=471181" id="114">
+      <title>MATRIX-cms-staging</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/30469/deploySpace/70859?projectId=481187" id="115">
+      <title>MATRIX-data-preview</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/32225/deploySpace/76559?projectId=471181" id="116">
+      <title>MATRIX-cms-preview</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/33493/deploySpace/79054?projectId=471181&amp;tab=instance" id="117">
+      <title>MATRIX-agent-preview</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63870?projectId=471181" id="118">
+      <title>MATRIX-llm-preview</title>
+    </bookmark>
+  </folder>
+  <folder id="25">
+    <title>中间件</title>
+    <bookmark href="https://cloud.d.xiaomi.net/redis/cache/resource?projectId=482877" id="119">
+      <title>REDIS-小米融合云</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/keycenter/sid/encry?sid=miui-search&amp;projectId=22856&amp;env=cn" id="120">
+      <title>KEYCENTER-小米融合云</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/fusion-ui/#/product/file-store/buckets" id="121">
+      <title>FDS - ai-search-bucket</title>
+    </bookmark>
+  </folder>
+  <folder id="26">
+    <title>平台服务</title>
+    <bookmark href="http://cloudml.ai.srv/#/overview?cluster=c5&amp;type=cloudml" id="122">
+      <title>CloudML</title>
+    </bookmark>
+    <bookmark href="https://manage.migc.xiaomi.com/#/" id="123">
+      <title>小米游戏乐高平台-正式环境</title>
+    </bookmark>
+    <bookmark href="http://dev.hyfe.game.node.g.mi.com/migc2-lego-system/#/" id="124">
+      <title>小米游戏乐高平台-测试环境</title>
+    </bookmark>
+    <bookmark href="https://content-review.crcp.xiaomi.com/#/401" id="125">
+      <title>内容审核平台-正式环境</title>
+    </bookmark>
+    <bookmark href="http://staging.review.inf.miui.com/audit/#/audit/auditFirst?page=1&amp;limit=20&amp;queueType=0" id="126">
+      <title>内容审核平台-测试环境</title>
+    </bookmark>
+    <bookmark href="https://zjysrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-5m,to:now))&amp;_a=(columns:!(),filters:!(),index:zjy_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="127">
+      <title>Elastic-正式环境</title>
+    </bookmark>
+    <bookmark href="https://falcon.mioffice.cn/grafana/d/H20vV6XNk/zhu-gan-he-xin-zhi-biao?orgId=1&amp;teamId=31754&amp;treeId=2&amp;from=now-6h&amp;to=now&amp;refresh=5s" id="128">
+      <title>主干核心指标 - Grafana</title>
+    </bookmark>
+    <bookmark href="https://tjsrv.kibana.pt.xiaomi.com/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-15m,to:now))&amp;_a=(columns:!(),filters:!(),index:tj_ai_search_lcs_log,interval:auto,query:(language:kuery,query:&apos;&apos;),sort:!(!(timestamp,desc)))" id="129">
+      <title>Elastic-测试环境</title>
+    </bookmark>
+  </folder>
+  <bookmark href="https://pkgs.d.xiaomi.net/ui/packages#/home" id="27">
+    <title>Packages - artifactory</title>
+  </bookmark>
+  <bookmark href="https://edu.mioffice.cn/clientcn/exam/18077/questions?title=2025%E4%BA%92%E9%83%A8%E8%B4%A8%E9%87%8F%E8%80%83%E8%AF%95-%E5%86%85%E5%AE%B9%E7%94%9F%E6%80%81%E9%83%A8&amp;flag=test&amp;totaltime=20" id="28">
+    <title>清河大学</title>
+  </bookmark>
+  <bookmark href="https://cloud.mioffice.cn/micr/iam/project/agent-495172/detail?projectId=495172" id="29">
+    <title>MICR-小米融合云</title>
+  </bookmark>
+  <bookmark href="https://michat.ai.xiaomi.com/wk" id="30">
+    <title>Mi Chat</title>
+  </bookmark>
+  <bookmark href="https://falcon.mioffice.cn/#/falcon-new/prometheus-overview" id="31">
+    <title>falcon</title>
+  </bookmark>
+  <bookmark href="https://offer.hr.mioffice.cn/express" id="32">
+    <title>小米入职系统</title>
+  </bookmark>
+  <bookmark href="https://zkview.d.xiaomi.net/clusters/staging/nodes" id="33">
+    <title>Shepher</title>
+  </bookmark>
 </folder>
 <folder id="4">
   <title>官方文档</title>
