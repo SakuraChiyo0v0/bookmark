@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :283: for Floccus bookmark sync browser extension -->
+<!--- highestId :284: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -445,6 +445,9 @@
     <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="149">
       <title>Xshell | NetSarang Website</title>
     </bookmark>
+  </folder>
+  <folder id="284">
+    <title>游戏教程</title>
   </folder>
 </folder>
 <folder id="5">
