@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :289: for Floccus bookmark sync browser extension -->
+<!--- highestId :290: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -241,15 +241,6 @@
   </folder>
   <folder id="272">
     <title>资源</title>
-    <bookmark href="https://zh.z-library.sk/" id="52">
-      <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
-    </bookmark>
-    <bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="190">
-      <title>免费素材图片</title>
-    </bookmark>
-    <bookmark href="https://unsplash.com/" id="191">
-      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
-    </bookmark>
     <folder id="287">
       <title>网盘</title>
       <bookmark href="https://vcsoso.com/" id="280">
@@ -261,9 +252,21 @@
     </folder>
     <folder id="288">
       <title>电子书</title>
+      <bookmark href="https://zh.z-library.sk/" id="52">
+        <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
+      </bookmark>
     </folder>
     <folder id="289">
       <title>图片</title>
+      <bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="190">
+        <title>免费素材图片</title>
+      </bookmark>
+      <bookmark href="https://unsplash.com/" id="191">
+        <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+      </bookmark>
+    </folder>
+    <folder id="290">
+      <title>游戏</title>
     </folder>
   </folder>
 </folder>
