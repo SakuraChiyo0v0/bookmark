@@ -455,8 +455,20 @@
       <title>A2UI</title>
     </bookmark>
   </folder>
+  <folder id="284">
+    <title>游戏攻略</title>
+    <folder id="296">
+      <title>我的世界</title>
+      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
+        <title>交易 - 中文 Minecraft Wiki</title>
+      </bookmark>
+      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
+        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
+      </bookmark>
+    </folder>
+  </folder>
   <folder id="38">
-    <title>工具</title>
+    <title>Linux相关</title>
     <bookmark href="https://www.runoob.com/linux/linux-tutorial.html" id="148">
       <title>Linux 教程 | 菜鸟教程</title>
     </bookmark>
@@ -469,18 +481,6 @@
     <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="149">
       <title>Xshell | NetSarang Website</title>
     </bookmark>
-  </folder>
-  <folder id="284">
-    <title>游戏攻略</title>
-    <folder id="296">
-      <title>我的世界</title>
-      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
-        <title>交易 - 中文 Minecraft Wiki</title>
-      </bookmark>
-      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
-        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
-      </bookmark>
-    </folder>
   </folder>
 </folder>
 <folder id="5">
