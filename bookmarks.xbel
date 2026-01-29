@@ -102,19 +102,10 @@
       <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh#e7b4c498" id="275">
         <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
       </bookmark>
-      <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh#e7b4c498" id="266">
-        <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
-      </bookmark>
       <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh" id="267">
         <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
       </bookmark>
-      <bookmark href="https://www.volcengine.com/docs/82379/1366799?lang=zh" id="276">
-        <title>视频生成--火山方舟大模型服务平台-火山引擎</title>
-      </bookmark>
       <bookmark href="https://agentscope.io/" id="277">
-        <title>AgentScope</title>
-      </bookmark>
-      <bookmark href="https://agentscope.io/" id="268">
         <title>AgentScope</title>
       </bookmark>
     </folder>
@@ -229,16 +220,10 @@
     <bookmark href="https://www.paper2gal.top/" id="278">
       <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
     </bookmark>
-    <bookmark href="https://www.paper2gal.top/" id="269">
-      <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
-    </bookmark>
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="173">
       <title>PerfectPixel Processor</title>
     </bookmark>
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="279">
-      <title>PerfectPixel Processor</title>
-    </bookmark>
-    <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="270">
       <title>PerfectPixel Processor</title>
     </bookmark>
   </folder>
@@ -256,20 +241,11 @@
     <bookmark href="https://vcsoso.com/" id="280">
       <title>维C搜搜-好用的夸克资源搜索站 -</title>
     </bookmark>
-    <bookmark href="https://vcsoso.com/" id="273">
-      <title>维C搜搜-好用的夸克资源搜索站 -</title>
-    </bookmark>
     <bookmark href="https://pan.funletu.com/" id="281">
-      <title>首页 | 趣盘搜-专注夸克资源搜索</title>
-    </bookmark>
-    <bookmark href="https://pan.funletu.com/" id="274">
       <title>首页 | 趣盘搜-专注夸克资源搜索</title>
     </bookmark>
     <bookmark href="https://zh.z-library.sk/" id="52">
       <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
-    </bookmark>
-    <bookmark href="https://8766555.xyz/" id="282">
-      <title>竹云盘搜 - 夸克网盘下载、搜索,云盘资源 - 夸克盘搜,竹云盘搜,竹云搜（zhuyunso.top）</title>
     </bookmark>
   </folder>
 </folder>
@@ -501,33 +477,6 @@
     <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
   </bookmark>
 </folder>
-<folder id="8">
-  <title>OCR&amp;端侧</title>
-  <bookmark href="https://github.com/deepseek-ai/DeepSeek-OCR" id="58">
-    <title>deepseek-ai/DeepSeek-OCR: Contexts Optical Compression</title>
-  </bookmark>
-  <bookmark href="https://www.paddleocr.ai/latest/version3.x/pipeline_usage/PaddleOCR-VL.html" id="59">
-    <title>使用教程 - PaddleOCR 文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/TVdJwZLUfi0ZhbkuXFhclrklnVh" id="60">
-    <title>‌​⁢⁣⁣‬‌‬⁤⁢⁤‍​⁣​⁢‍​​‌⁤‬​​‍​⁣‍⁤⁤⁤﻿﻿‌⁡﻿⁢⁤​⁤⁡﻿⁣​⁣⁤‍﻿​‬端侧图片识别能力调研 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/S6muwNXiKiI5EakWUPBcBcLYnhd" id="61">
-    <title>‌⁡⁢⁢‍​​⁡⁣⁤​‍‬﻿‬​⁣‬⁣‍⁢﻿‍⁤⁢⁢​⁤‍​﻿⁤‬⁡⁡⁣⁢⁣​﻿‬‬‌​​‬⁡​PaddleOCR &amp; DeepSeek-OCR 调研 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://www.paddlepaddle.org.cn/tutorials/projectdetail/5604804" id="62">
-    <title>飞桨PaddlePaddle-源于产业实践的开源深度学习平台</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/LoBOw9SpAiDiOjkbRGacEmu9nlh" id="63">
-    <title>‍​⁣‬﻿⁢⁢⁤‌‌​‌‍‍⁤﻿⁤‌​⁣‍⁣⁤‬‍⁢‍​‬⁡﻿​﻿﻿​⁣​⁤‌‍‬​​⁣​​⁣﻿⁡‍CloudML部署Paddle-OCR - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://www.paddleocr.ai/latest/version3.x/algorithm/PaddleOCR-VL/PaddleOCR-VL.html#_17" id="64">
-    <title>PaddleOCR-VL简介 - PaddleOCR 文档</title>
-  </bookmark>
-  <bookmark href="http://cloudml.ai.srv/#/work-space/list?cluster=ak&amp;type=cloudml" id="65">
-    <title>CloudML</title>
-  </bookmark>
-</folder>
 <folder id="7">
   <title>工具</title>
   <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="53">
@@ -604,48 +553,6 @@
   </bookmark>
   <bookmark href="https://mify.mioffice.cn/app/7600ae69-812a-4c87-8552-6b10ca4e969a/workflow" id="68">
     <title>AI短剧聊天机器人 - Mify</title>
-  </bookmark>
-</folder>
-<folder id="10">
-  <title>排题预推</title>
-  <bookmark href="https://mi.feishu.cn/wiki/Kv16w7ndniNuFpksqvXc76mnnGf" id="70">
-    <title>⁣‍​⁣​⁡‬⁣⁤​‍⁤⁡⁤​​‍‌⁣‍‬​⁢​‬⁢⁢‍‍⁢⁡‍​​​⁢﻿⁡​‍﻿⁢⁢​​‍⁤﻿⁢【AI搜索】【首包耗时优化】方案调研 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/OhVpw41pbiAXKMk7Vwrcqkuznob" id="71">
-    <title>Docs</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/Vx2Uwlzj6iq5WGkK43qcyLi6nfg" id="72">
-    <title>‍⁢﻿‍﻿⁤‍⁢‍⁢⁡﻿​‍​‬⁣​﻿​‬﻿﻿﻿‬​⁣⁤⁢⁣‌⁡⁤‌﻿‌‌‌⁡⁣​⁤⁣‌⁢⁢⁢⁢⁡‌AI搜索专项 | 首包优化专项 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/SjZtw8O5oioUbqkccmLck6CSnFh" id="73">
-    <title>‍‌‌⁣⁡‌​‌⁡⁡‬⁣​⁢​‬‍​‍⁣‍​⁡⁣‍‍⁡⁣​‍⁢⁤‬‌​⁤⁣‍⁡⁡​‬⁣​‬⁣﻿⁤⁣⁡AI搜端到端拍搜链路梳理 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/R4xQw3zG2iNdQckT3vOcO5PNnVT" id="74">
-    <title>‍‬‌⁣‍​﻿⁣⁤⁡‌⁣‌​​⁢​‬‍​​⁡​​﻿​‬‍​﻿‌⁢⁡​⁡‌⁢​⁣​​​​​﻿‬⁢‌⁡‌【AI搜索】拍单题预推技术方案 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/Gjt3w8XSei3ssxkuDHKcRgo6nOc" id="75">
-    <title>⁣⁣⁣⁢​﻿﻿‍‍⁤‍⁣‍﻿⁣‍​⁢⁢​​‬⁡​⁣​⁣​⁢‌​​﻿​‌‬‬﻿​⁤⁡‌﻿‬​​‌​﻿专项规划 | 端到端首包耗时优化专项 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/O7ZJwpAVSiJe9jkKuemcY5MLnTD" id="76">
-    <title>‌﻿⁡⁡⁡‍​⁣⁢⁡﻿​⁣⁡‬‬⁢⁣⁣⁢⁡⁤‌⁡‌⁤​⁤​⁤⁣​⁤​‍⁤⁣‍‌⁢‬‬⁤⁤⁣﻿⁡⁤​​【AI搜索】【拍搜链路首包耗时优化】方案设计 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/KwNZwbcmhionadkQOcXcx2uKnvd" id="77">
-    <title>‌‍‍‍‌‍​​﻿​⁤﻿​​﻿​⁢⁢⁡‌‬‌⁡⁣​‬‬﻿⁢⁢‍‌‬‌‍‌‌⁢⁣﻿‍⁡‌​​‬⁣​AI搜索 | 拍题图片上传接口 /api/data/upload/image/v2 - 小米办公Pro云文档</title>
-  </bookmark>
-  <bookmark href="https://project.f.mioffice.cn/aisearch_ice/requirement/detail/3543486" id="78">
-    <title>【不跟版】拍单题答案预推 - 飞书项目</title>
-  </bookmark>
-  <bookmark href="https://console.volcengine.com/ark/region:ark+cn-beijing/experience/voice?modelId=ve-voiceclone&amp;tab=VoiceClone" id="79">
-    <title>火山方舟管理控制台</title>
-  </bookmark>
-  <bookmark href="https://console.volcengine.com/ark/region:ark+cn-beijing/tts/realTimeRecognition" id="80">
-    <title>火山方舟管理控制台</title>
-  </bookmark>
-  <bookmark href="https://www.volcengine.com/docs/6561/1597643" id="81">
-    <title>端到端Android SDK 接口文档--豆包语音-火山引擎</title>
-  </bookmark>
-  <bookmark href="https://mi.feishu.cn/wiki/NrWVwOy9iiYYxJkNXRhcaJIWneb" id="82">
-    <title>Docs</title>
   </bookmark>
 </folder>
 <folder id="11">
