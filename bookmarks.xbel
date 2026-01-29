@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :291: for Floccus bookmark sync browser extension -->
+<!--- highestId :292: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -466,6 +466,15 @@
   </folder>
   <folder id="284">
     <title>游戏攻略</title>
+    <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
+      <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
+    </bookmark>
+    <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
+      <title>交易 - 中文 Minecraft Wiki</title>
+    </bookmark>
+    <folder id="292">
+      <title>我的世界</title>
+    </folder>
   </folder>
 </folder>
 <folder id="5">
@@ -538,12 +547,6 @@
   </folder>
   <folder id="56">
     <title>游戏</title>
-    <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
-      <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
-    </bookmark>
-    <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
-      <title>交易 - 中文 Minecraft Wiki</title>
-    </bookmark>
     <bookmark href="https://mc.appfeng.com/" id="184">
       <title>鸣潮助手</title>
     </bookmark>
