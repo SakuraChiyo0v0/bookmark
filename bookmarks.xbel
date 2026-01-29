@@ -195,6 +195,9 @@
       <bookmark href="https://platform.stability.ai/account/credits" id="208">
         <title>稳定性人工智能 - 开发者平台</title>
       </bookmark>
+      <bookmark href="https://www.liblib.art/?from=aigc.cn" id="245">
+        <title>LiblibAI-哩布哩布AI - 中国领先的AI创作平台</title>
+      </bookmark>
     </folder>
     <folder id="170">
       <title>音乐</title>
@@ -217,13 +220,7 @@
     <bookmark href="https://www.paper2gal.top/" id="172">
       <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
     </bookmark>
-    <bookmark href="https://www.paper2gal.top/" id="278">
-      <title>Paper2Galgame - Turn Papers into Visual Novels | AI Paper Reader</title>
-    </bookmark>
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="173">
-      <title>PerfectPixel Processor</title>
-    </bookmark>
-    <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="279">
       <title>PerfectPixel Processor</title>
     </bookmark>
   </folder>
@@ -703,9 +700,6 @@
   </folder>
   <folder id="217">
     <title>AI绘画</title>
-    <bookmark href="https://www.liblib.art/?from=aigc.cn" id="245">
-      <title>LiblibAI-哩布哩布AI - 中国领先的AI创作平台</title>
-    </bookmark>
   </folder>
 </folder>
 <folder id="214">
