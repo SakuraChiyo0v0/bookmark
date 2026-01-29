@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :301: for Floccus bookmark sync browser extension -->
+<!--- highestId :303: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -58,6 +58,9 @@
     <bookmark href="https://tongyi.aliyun.com/" id="228">
       <title>通义tongyi.ai_你的全能AI助手-通义千问</title>
     </bookmark>
+  </folder>
+  <folder id="302">
+    <title>豆包</title>
   </folder>
 </folder>
 <folder id="2">
@@ -283,6 +286,9 @@
   </folder>
   <folder id="298">
     <title>工具服务平台</title>
+  </folder>
+  <folder id="303">
+    <title>国内平台</title>
   </folder>
 </folder>
 <folder id="3">
