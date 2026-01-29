@@ -455,18 +455,6 @@
       <title>A2UI</title>
     </bookmark>
   </folder>
-  <folder id="284">
-    <title>游戏攻略</title>
-    <folder id="296">
-      <title>我的世界</title>
-      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
-        <title>交易 - 中文 Minecraft Wiki</title>
-      </bookmark>
-      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
-        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
-      </bookmark>
-    </folder>
-  </folder>
   <folder id="38">
     <title>Linux相关</title>
     <bookmark href="https://www.runoob.com/linux/linux-tutorial.html" id="148">
@@ -481,6 +469,18 @@
     <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="149">
       <title>Xshell | NetSarang Website</title>
     </bookmark>
+  </folder>
+  <folder id="284">
+    <title>游戏攻略</title>
+    <folder id="296">
+      <title>我的世界</title>
+      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
+        <title>交易 - 中文 Minecraft Wiki</title>
+      </bookmark>
+      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
+        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
+      </bookmark>
+    </folder>
   </folder>
 </folder>
 <folder id="5">
@@ -636,8 +636,29 @@
     <title>Docs</title>
   </bookmark>
 </folder>
-<folder id="213">
-  <title>bac</title>
+<folder id="214">
+  <title>平台bac</title>
+  <bookmark href="https://www.baidu.com/" id="219">
+    <title>百度一下，你就知道</title>
+  </bookmark>
+  <bookmark href="https://sillytavern.wiki/usage/faq/" id="222">
+    <title>常见问题 | SillyTavern傻酒馆中文文档</title>
+  </bookmark>
+  <bookmark href="https://character-tavern.com/" id="223">
+    <title>Character Tavern | Create &amp; Chat with AI Characters</title>
+  </bookmark>
+  <bookmark href="https://www.characterhub.org/?search=&amp;first=50&amp;topics=&amp;excludetopics=&amp;page=1&amp;sort=default&amp;venus=false&amp;min_tokens=50" id="224">
+    <title>Chub</title>
+  </bookmark>
+  <bookmark href="https://api.317ak.cn/UserCenter/mykey?i=2" id="225">
+    <title>用户中心 - 倾梦API</title>
+  </bookmark>
+  <bookmark href="https://nemo2011.github.io/bilibili-api/#/get-credential" id="226">
+    <title>获取 Credential 类所需信息</title>
+  </bookmark>
+  <bookmark href="https://yescaptcha.com/documents.html" id="227">
+    <title>Yes, Captcha! - 使用统计</title>
+  </bookmark>
   <folder id="216">
     <title>其他</title>
     <folder id="238">
@@ -701,30 +722,6 @@
       <title>1,268 块饼干 - Cookie Clicker</title>
     </bookmark>
   </folder>
-</folder>
-<folder id="214">
-  <title>平台bac</title>
-  <bookmark href="https://www.baidu.com/" id="219">
-    <title>百度一下，你就知道</title>
-  </bookmark>
-  <bookmark href="https://sillytavern.wiki/usage/faq/" id="222">
-    <title>常见问题 | SillyTavern傻酒馆中文文档</title>
-  </bookmark>
-  <bookmark href="https://character-tavern.com/" id="223">
-    <title>Character Tavern | Create &amp; Chat with AI Characters</title>
-  </bookmark>
-  <bookmark href="https://www.characterhub.org/?search=&amp;first=50&amp;topics=&amp;excludetopics=&amp;page=1&amp;sort=default&amp;venus=false&amp;min_tokens=50" id="224">
-    <title>Chub</title>
-  </bookmark>
-  <bookmark href="https://api.317ak.cn/UserCenter/mykey?i=2" id="225">
-    <title>用户中心 - 倾梦API</title>
-  </bookmark>
-  <bookmark href="https://nemo2011.github.io/bilibili-api/#/get-credential" id="226">
-    <title>获取 Credential 类所需信息</title>
-  </bookmark>
-  <bookmark href="https://yescaptcha.com/documents.html" id="227">
-    <title>Yes, Captcha! - 使用统计</title>
-  </bookmark>
 </folder>
 <folder id="218">
   <title>最近工作用</title>
