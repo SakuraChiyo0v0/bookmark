@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :293: for Floccus bookmark sync browser extension -->
+<!--- highestId :294: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -270,6 +270,12 @@
       <bookmark href="https://rutracker.net/forum/index.php?c=8" id="237">
         <title>RuTracker.org</title>
       </bookmark>
+      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
+        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
+      </bookmark>
+      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
+        <title>交易 - 中文 Minecraft Wiki</title>
+      </bookmark>
     </folder>
   </folder>
 </folder>
@@ -460,21 +466,18 @@
     <bookmark href="https://www.runoob.com/linux/linux-tutorial.html" id="148">
       <title>Linux 教程 | 菜鸟教程</title>
     </bookmark>
+    <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="53">
+      <title>转换 人民币 为 俄罗斯卢布 | CNY 为 RUB 汇率转换工具</title>
+    </bookmark>
+    <bookmark href="https://bytesfly.github.io/json/" id="221">
+      <title>Json在线解析及格式化验证 - Json.cn</title>
+    </bookmark>
     <bookmark href="https://www.xshell.com/zh/free-for-home-school/" id="149">
       <title>Xshell | NetSarang Website</title>
     </bookmark>
   </folder>
   <folder id="284">
-    <title>游戏攻略</title>
-    <folder id="292">
-      <title>我的世界</title>
-      <bookmark href="https://zh.minecraft.wiki/w/%E4%BA%A4%E6%98%93?variant=zh-cn#%E5%B7%A5%E5%85%B7%E5%8C%A0" id="183">
-        <title>交易 - 中文 Minecraft Wiki</title>
-      </bookmark>
-      <bookmark href="https://zh.minecraft.wiki/w/Tutorial:%E6%9C%80%E4%BD%B3%E9%99%84%E9%AD%94%E6%8C%87%E5%8D%97?variant=zh-cn" id="182">
-        <title>教程:最佳附魔指南 - 中文 Minecraft Wiki</title>
-      </bookmark>
-    </folder>
+    <title>游戏教程</title>
   </folder>
 </folder>
 <folder id="5">
@@ -535,9 +538,6 @@
     <bookmark href="https://smallpdf.com/cn/edit-pdf#r=result&amp;t=5ffb0acd4fd8ae4d46e43d69a33104a7&amp;i=annotate" id="180">
       <title>编辑PDF —— 可在你的浏览器直接使用的免费PDF编辑器</title>
     </bookmark>
-    <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="53">
-      <title>转换 人民币 为 俄罗斯卢布 | CNY 为 RUB 汇率转换工具</title>
-    </bookmark>
   </folder>
   <folder id="55">
     <title>站长工具</title>
@@ -566,22 +566,10 @@
       <title>戴森球计划量化计算器</title>
     </bookmark>
   </folder>
-  <folder id="291">
-    <title>编程工具</title>
-    <bookmark href="https://bytesfly.github.io/json/" id="221">
-      <title>Json在线解析及格式化验证 - Json.cn</title>
-    </bookmark>
-  </folder>
   <folder id="285">
     <title>办公工具</title>
     <bookmark href="https://chartcube.alipay.com/upload" id="220">
       <title>ChartCube - 在线图表制作工具</title>
-    </bookmark>
-    <bookmark href="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" id="244">
-      <title>AIppt制作</title>
-    </bookmark>
-    <bookmark href="https://www.geogebra.org/classic" id="293">
-      <title>GeoGebra 数学函数画图</title>
     </bookmark>
   </folder>
 </folder>
@@ -700,6 +688,12 @@
     <bookmark href="https://orteil.dashnet.org/cookieclicker/" id="243">
       <title>1,268 块饼干 - Cookie Clicker</title>
     </bookmark>
+    <bookmark href="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" id="244">
+      <title>AIppt制作</title>
+    </bookmark>
+  </folder>
+  <folder id="294">
+    <title>AI绘画</title>
   </folder>
 </folder>
 <folder id="214">
