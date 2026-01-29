@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :292: for Floccus bookmark sync browser extension -->
+<!--- highestId :293: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -513,9 +513,6 @@
     <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
   </bookmark>
 </folder>
-<bookmark href="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" id="244">
-  <title>AIppt制作</title>
-</bookmark>
 <folder id="7">
   <title>工具</title>
   <bookmark href="https://themoneyconverter.com/zh-CN/CNY/RUB?" id="53">
@@ -579,6 +576,12 @@
     <title>办公工具</title>
     <bookmark href="https://chartcube.alipay.com/upload" id="220">
       <title>ChartCube - 在线图表制作工具</title>
+    </bookmark>
+    <bookmark href="https://www.slidesai.io/zh/guides/how-to-install-slides-ai" id="244">
+      <title>AIppt制作</title>
+    </bookmark>
+    <bookmark href="https://www.geogebra.org/classic" id="293">
+      <title>GeoGebra 经典 - GeoGebra</title>
     </bookmark>
   </folder>
 </folder>
