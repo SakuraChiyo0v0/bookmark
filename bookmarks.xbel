@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :284: for Floccus bookmark sync browser extension -->
+<!--- highestId :285: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -545,6 +545,12 @@
   <bookmark href="https://bytesfly.github.io/json/" id="221">
     <title>Json在线解析及格式化验证 - Json.cn</title>
   </bookmark>
+  <folder id="285">
+    <title>办公工具</title>
+    <bookmark href="https://chartcube.alipay.com/upload" id="220">
+      <title>ChartCube - 在线图表制作工具</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="9">
   <title>mify</title>
@@ -706,9 +712,6 @@
   <title>平台bac</title>
   <bookmark href="https://www.baidu.com/" id="219">
     <title>百度一下，你就知道</title>
-  </bookmark>
-  <bookmark href="https://chartcube.alipay.com/upload" id="220">
-    <title>ChartCube - 在线图表制作工具</title>
   </bookmark>
   <bookmark href="https://sillytavern.wiki/usage/faq/" id="222">
     <title>常见问题 | SillyTavern傻酒馆中文文档</title>
