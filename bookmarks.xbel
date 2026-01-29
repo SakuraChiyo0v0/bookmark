@@ -247,6 +247,12 @@
     <bookmark href="https://zh.z-library.sk/" id="52">
       <title>Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。</title>
     </bookmark>
+    <bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="190">
+      <title>免费素材图片</title>
+    </bookmark>
+    <bookmark href="https://unsplash.com/" id="191">
+      <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
+    </bookmark>
   </folder>
 </folder>
 <folder id="3">
@@ -729,13 +735,4 @@
     <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
   </bookmark>
 </folder>
-<bookmark href="https://xiaomi.f.mioffice.cn/docx/doxk4Pq7FfgnnmkPUsomUlxpLKh?from=from_lark_group_search" id="271">
-  <title>Docs</title>
-</bookmark>
-<bookmark href="https://www.pexels.com/zh-cn/leaderboard/" id="190">
-  <title>免费素材图片</title>
-</bookmark>
-<bookmark href="https://unsplash.com/" id="191">
-  <title>Beautiful Free Images &amp; Pictures | Unsplash</title>
-</bookmark>
 </xbel>
