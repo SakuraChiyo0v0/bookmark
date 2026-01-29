@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :297: for Floccus bookmark sync browser extension -->
+<!--- highestId :300: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -272,6 +272,9 @@
       </bookmark>
     </folder>
   </folder>
+  <folder id="298">
+    <title>工具服务平台</title>
+  </folder>
 </folder>
 <folder id="3">
   <title>小米平台</title>
@@ -482,6 +485,12 @@
       </bookmark>
     </folder>
   </folder>
+  <folder id="299">
+    <title>API接口文档</title>
+    <bookmark href="https://nemo2011.github.io/bilibili-api/#/README" id="300">
+      <title>bilibili-api文档</title>
+    </bookmark>
+  </folder>
 </folder>
 <folder id="5">
   <title>GitHub</title>
@@ -635,6 +644,9 @@
   <bookmark href="https://mi.feishu.cn/wiki/LYmfw6SrAiSOjfkVFqbcfsAKnkB" id="92">
     <title>Docs</title>
   </bookmark>
+  <bookmark href="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" id="246">
+    <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
+  </bookmark>
 </folder>
 <folder id="214">
   <title>平台bac</title>
@@ -722,11 +734,5 @@
       <title>1,268 块饼干 - Cookie Clicker</title>
     </bookmark>
   </folder>
-</folder>
-<folder id="218">
-  <title>最近工作用</title>
-  <bookmark href="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" id="246">
-    <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
-  </bookmark>
 </folder>
 </xbel>
