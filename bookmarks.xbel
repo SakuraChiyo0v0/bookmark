@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :304: for Floccus bookmark sync browser extension -->
+<!--- highestId :305: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -88,6 +88,12 @@
   <title>平台</title>
   <folder id="301">
     <title>国外平台</title>
+    <bookmark href="edge://newtab/" id="305">
+      <title>新建标签页</title>
+    </bookmark>
+    <bookmark href="https://twitter.com/" id="239">
+      <title></title>
+    </bookmark>
   </folder>
   <folder id="303">
     <title>国内平台</title>
@@ -269,6 +275,12 @@
       <title>游戏</title>
       <bookmark href="https://rutracker.net/forum/index.php?c=8" id="237">
         <title>RuTracker.org</title>
+      </bookmark>
+      <bookmark href="https://www.eyezmaze.com/game/grow_Island.html" id="240">
+        <title>GROW Island（游戏） --EYEZMAZE--</title>
+      </bookmark>
+      <bookmark href="https://www.rainlain.com/index.php/2024/09/09/2435/" id="259">
+        <title>私人推荐：亲吻花瓣（23部汉化合集） – 梦雨玲音</title>
       </bookmark>
     </folder>
   </folder>
@@ -729,19 +741,10 @@
       <bookmark href="https://spankbang.com/9qig3/video/hunk+ch+com+gn058" id="258">
         <title>Watch [hunk-ch.com] GN058 - Fuck, Asian, Hardcore Porn - SpankBang</title>
       </bookmark>
-      <bookmark href="https://www.rainlain.com/index.php/2024/09/09/2435/" id="259">
-        <title>私人推荐：亲吻花瓣（23部汉化合集） – 梦雨玲音</title>
-      </bookmark>
       <bookmark href="https://crazyshit.com/categories/" id="260">
         <title>Crazy Shit</title>
       </bookmark>
     </folder>
-    <bookmark href="https://twitter.com/" id="239">
-      <title></title>
-    </bookmark>
-    <bookmark href="https://www.eyezmaze.com/game/grow_Island.html" id="240">
-      <title>GROW Island（游戏） --EYEZMAZE--</title>
-    </bookmark>
     <bookmark href="https://orteil.dashnet.org/cookieclicker/" id="243">
       <title>1,268 块饼干 - Cookie Clicker</title>
     </bookmark>
