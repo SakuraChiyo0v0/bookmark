@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :285: for Floccus bookmark sync browser extension -->
+<!--- highestId :286: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -51,6 +51,12 @@
     <title>智谱</title>
     <bookmark href="https://bigmodel.cn/glm-coding?utm_source=google&amp;utm_campaign=%E8%B0%B7%E6%AD%8C&amp;_channel_track_key=uaT8G33P&amp;gad_source=1&amp;gad_campaignid=23407387808&amp;gbraid=0AAAABBUMtgRYxkYHTIeQYKwL1cd7cufnf&amp;gclid=EAIaIQobChMI_5bQ7bjzkQMVUtlMAh2muToVEAAYASAAEgKpTvD_BwE" id="103">
       <title>智谱AI开放平台</title>
+    </bookmark>
+  </folder>
+  <folder id="286">
+    <title>通义千问</title>
+    <bookmark href="https://tongyi.aliyun.com/" id="228">
+      <title>通义tongyi.ai_你的全能AI助手-通义千问</title>
     </bookmark>
   </folder>
 </folder>
@@ -607,9 +613,6 @@
   <title>bac</title>
   <folder id="215">
     <title>AI技术</title>
-    <bookmark href="https://tongyi.aliyun.com/" id="228">
-      <title>通义tongyi.ai_你的全能AI助手-通义千问</title>
-    </bookmark>
     <bookmark href="https://llamafactory.readthedocs.io/zh-cn/latest/index.html" id="229">
       <title>LLaMA Factory</title>
     </bookmark>
@@ -627,9 +630,6 @@
     </bookmark>
     <bookmark href="https://mcp-docs.cn/introduction" id="234">
       <title>MCP 简介 - MCP 中文文档</title>
-    </bookmark>
-    <bookmark href="https://baoyueai.com/read/367164" id="235">
-      <title>包阅AI-你的智能AI阅读助手</title>
     </bookmark>
     <bookmark href="https://github.com/iwyxdxl/WeChatBot_WXAUTO_SE/releases/tag/3.16" id="236">
       <title>Release WeChatBot_WXAUTO_SE_v3.16 · iwyxdxl/WeChatBot_WXAUTO_SE</title>
