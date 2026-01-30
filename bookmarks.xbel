@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :321: for Floccus bookmark sync browser extension -->
+<!--- highestId :322: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -63,6 +63,9 @@
     <title>MiniMax</title>
     <bookmark href="https://www.minimaxi.com/" id="321">
       <title>MiniMax</title>
+    </bookmark>
+    <bookmark href="https://platform.minimaxi.com/user-center/basic-information/interface-key" id="322">
+      <title>接口密钥 - MiniMax 开放平台</title>
     </bookmark>
   </folder>
 </folder>
