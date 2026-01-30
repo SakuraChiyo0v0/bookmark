@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :313: for Floccus bookmark sync browser extension -->
+<!--- highestId :318: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -223,6 +223,9 @@
     <bookmark href="https://theamusing.github.io/perfectPixel_webdemo/" id="173">
       <title>PerfectPixel Processor</title>
     </bookmark>
+    <bookmark href="https://valuecell.ai/zh/chat/conv-6e6f75c7b5c4457eba68e4adf6c6196f" id="314">
+      <title>ValueCell AI | 从洞察到执行，全盘掌控</title>
+    </bookmark>
   </folder>
   <folder id="51">
     <title>通讯</title>
@@ -292,10 +295,10 @@
   </folder>
   <folder id="298">
     <title>工具服务平台</title>
+    <bookmark href="https://mojie.app/dashboard" id="306">
+      <title>魔戒.net</title>
+    </bookmark>
   </folder>
-  <bookmark href="https://mojie.app/dashboard" id="306">
-    <title>魔戒.net</title>
-  </bookmark>
 </folder>
 <folder id="3">
   <title>小米平台</title>
@@ -348,6 +351,9 @@
     </bookmark>
     <bookmark href="https://cloud.mioffice.cn/matrix/apps/28126/deploySpace/63870?projectId=471181" id="118">
       <title>MATRIX-llm-preview</title>
+    </bookmark>
+    <bookmark href="https://cloud.mioffice.cn/matrix/apps/362059/deploySpace/90218?projectId=495172" id="315">
+      <title>MATRIX-小米融合云</title>
     </bookmark>
   </folder>
   <folder id="25">
@@ -548,6 +554,9 @@
   <bookmark href="https://github.com/theamusing/perfectPixel" id="45">
     <title>theamusing/perfectPixel: Refine and quantize messy AI pixel art into clean, perfect pixels.</title>
   </bookmark>
+  <bookmark href="https://github.com/VoltAgent/awesome-moltbot-skills?tab=readme-ov-file" id="316">
+    <title>VoltAgent/awesome-moltbot-skills: The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)</title>
+  </bookmark>
 </folder>
 <folder id="7">
   <title>工具</title>
@@ -673,6 +682,12 @@
   </bookmark>
   <bookmark href="https://www.volcengine.com/docs/6561/1329505?lang=zh#_2-1-%E8%AF%B7%E6%B1%82request" id="246">
     <title>双向流式websocket-V3-支持复刻/混音mix--豆包语音-火山引擎</title>
+  </bookmark>
+  <bookmark href="https://mi.feishu.cn/wiki/NU9lwS2WwiEaWGkwQtQc4JBAn7c" id="317">
+    <title>Docs</title>
+  </bookmark>
+  <bookmark href="https://mi.feishu.cn/wiki/F9e8wWePViwYXJkJBx8cCle1nxf" id="318">
+    <title>‍‬‬‌⁤⁡‬​‍⁣⁣‍⁡⁣‬‌⁢⁣⁢⁣⁢​⁢⁤⁤​⁤⁤﻿﻿​⁡⁡﻿⁤﻿‍‍​⁢​⁢‌⁢⁤⁡​⁡⁡‬豆包爱学-AI老师调研 - 小米办公Pro云文档</title>
   </bookmark>
 </folder>
 <folder id="214">
