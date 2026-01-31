@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :323: for Floccus bookmark sync browser extension -->
+<!--- highestId :324: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -601,9 +601,9 @@
   </folder>
   <folder id="55">
     <title>站长工具</title>
-    <folder id="181">
-      <title>素材</title>
-    </folder>
+    <bookmark href="https://tool.lu/ip/" id="324">
+      <title>IP归属地查询 - 在线工具</title>
+    </bookmark>
   </folder>
   <folder id="56">
     <title>游戏</title>
