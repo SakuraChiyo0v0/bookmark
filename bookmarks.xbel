@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
 <xbel version="1.0">
-<!--- highestId :322: for Floccus bookmark sync browser extension -->
+<!--- highestId :323: for Floccus bookmark sync browser extension -->
 
 <folder id="1">
   <title>大模型平台</title>
@@ -568,6 +568,9 @@
   </bookmark>
   <bookmark href="https://github.com/VoltAgent/awesome-moltbot-skills?tab=readme-ov-file" id="316">
     <title>VoltAgent/awesome-moltbot-skills: The awesome collection of Moltbot Skills. (Clawdbot has officially been renamed to Moltbot)</title>
+  </bookmark>
+  <bookmark href="https://github.com/666ghj/MiroFish" id="323">
+    <title>666ghj/MiroFish: A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物</title>
   </bookmark>
 </folder>
 <folder id="7">
